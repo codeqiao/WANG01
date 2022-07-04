@@ -1,7 +1,6 @@
 import random
 
 class StringHelper:
-
     @staticmethod
     def random_string_generator(str_size, allowed_chars):
         """
