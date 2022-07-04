@@ -1,9 +1,0 @@
-random.sample(seq,k)
-实现从序列或者集合中随机选取k个元素
-
-os.path.dirname(os.path.abspath(__file__))
-获取当前py文件的绝对地址
-
-# 批量给字典内容加引号
-(.*?): (.*)
-'$1':'$2',

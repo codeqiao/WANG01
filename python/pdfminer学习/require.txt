@@ -1,3 +1,0 @@
-python-docx
-pdfminer.six
-pdfminer3k
