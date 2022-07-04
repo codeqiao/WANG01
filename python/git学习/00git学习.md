@@ -137,5 +137,9 @@ master是主分支
 
 #####4、从远程获取代码
 ***git pull***
->
+***git fetch***
+区别：
+>拉取到本地但是不会和本地的自行合并
+>git detch origin master:tm -- 拉取到tm分支中，可以自行合并
+
 
