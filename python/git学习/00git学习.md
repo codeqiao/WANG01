@@ -142,4 +142,4 @@ master是主分支
 >拉取到本地但是不会和本地的自行合并
 >git detch origin master:tm -- 拉取到tm分支中，可以自行合并
 
-
+sdasdasd
