@@ -1,0 +1,237 @@
+Feature Selection by Joint Graph Sparse Coding
+一种基于距离和采样机制的数据流分类方法
+A Prolog-Based Presentation for Integrating Knowledge and Data
+基于向量表示和标签传播的半监督短文本数据流分类算法
+模式特征对带有通配符和长度约束的模式匹配问题的影响
+钙钛矿型Ba0.5Sr0.5Co0.8Fe0.2O3-δ透氧膜材料的制备及其透氧性能的研究
+子网树求解一般间隙和长度约束严格模式匹配
+B2C电商平台用户快递焦虑影响因素分析
+2019 IEEE International Conference on Big Knowledge, ICBK 2019, Beijing, China, November 10-11, 201
+专家系统:技术和范畴
+一种基于组策略的过滤式特征选择算法
+基于概念格模型的约简表示及求解
+Advanced Research in Applied Artificial Intelligence - 25th International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2012, Dalian, China, June 9-12, 2012. Proceeding
+从关系型描述数据库生成语义网络的方法
+数据结构实践教学体系设计
+20th IEEE International Conference on Data Mining, ICDM 2020, Sorrento, Italy, November 17-20, 202
+关于人工智能专业中数据结构课程教学的几点思考
+2018 IEEE International Conference on Big Knowledge, ICBK 2018, Singapore, November 17-18, 201
+基于社交网络的社交行为分析
+A Weak Supervision Approach with Adversarial Training for Named Entity Recognition
+Proceedings of the 13th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Jose, California, USA, August 12-15, 200
+HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining
+Learning Simplified Decision Boundaries from Trapezoidal Data Streams
+12th IEEE International Conference on Data Mining, ICDM 2012, Brussels, Belgium, December 10-13, 201
+Error-aware Markov blanket learning for causal feature selection
+基于分类子格融合的概念格分布式分类方法
+基于项目属性和局部优化的协同过滤推荐算法
+The ℓ _2, 1 -Norm Stacked Robust Autoencoders via Adaptation Regularization for Domain Adaptation
+2019 IEEE International Conference on Data Mining, ICDM 2019, Beijing, China, November 8-11, 201
+STTM: A Tool for Short Text Topic Modeling
+一般间隙与One-Off条件的序列模式匹配
+专家系统的通用性研究
+固体氧化物燃料电池NiO/Y0.1Sm0.1Ce0.8O1.9阳极材料制备与表征
+2017 IEEE International Conference on Data Mining, ICDM 2017, New Orleans, LA, USA, November 18-21, 201
+Parameter Estimdation in Semi-Random Decision Tree Ensembling on Streaming Data
+基于同义实体识别的Web信息集成
+EIC Editorial: Introducing the New Editor-in-Chief and Four New Associate Editors
+基于文本块密度和标签路径覆盖率的网页正文抽取
+网络在线预约挂号系统用户的爽约行为研究
+流特征下的在线知识发现研究
+Towards precise causal effect estimation from data with hidden variables.
+基于层次向量空间模型的用户兴趣表示及更新
+Logistic Regression for Transductive Transfer Learning from Multiple Sources
+3-D Object Retrieval With Hausdorff Distance Learning10 Years of Data Mining Research: Retrospect and Prospect
+A twitter recruitment intelligent system: association rule mining for smoking cessation
+13th IEEE International Conference on Data Mining Workshops, ICDM Workshops, TX, USA, December 7-10, 201
+多标签类重力密度和距离的图像注释方法
+Multi-Objective Optimization-Based Networked Multi-Label Active Learning
+基于词汇链的中文新闻网页关键词抽取方法
+基于关联规则的成绩预警模型研究
+基于图和LDA主题模型的关键词抽取算法
+ICDM Workshops 2009, IEEE International Conference on Data Mining Workshops, Miami, Florida, USA, 6 December 200
+基于Mashup数据聚合的Web购物服务系统
+基于种子节点选择的网络环境下多标签分类算法研究
+领域知识图谱快速构建和应用框架
+面向跨领域情感分类的特征选择方法
+新工科背景下人工智能通识系列课程建设与实践
+贝叶斯网络的并行EM学习算法
+社交网络中隐式事件突发性检测
+基于简化分辨矩阵的粗糙集属性约简算法
+Image Denoising with a Unified Schattern-p Norm and ℓq Norm Regularization
+Prompt-Learning for Short Text Classification
+多目标定值的一种权系数学习模型
+论知识表示
+Hybrid Artificial Intelligence Systems, 4th International Conference, HAIS 2009, Salamanca, Spain, June 10-12, 2009. Proceeding
+一种新的概念格并行构造方法
+贝叶斯网络建模及推理算法研究
+智能系统的技能提高问题
+基于打分矩阵的生物序列频繁模式挖掘
+Feature Selection for Efficient Local-to-Global Bayesian Network Structure Learning.
+Subchloroplast Location Prediction via Homolog Knowledge Transfer and Feature Selection.
+面向评论信息的跨领域词汇情感倾向判别方法
+自动词语简化方法综述
+2014 IEEE International Conference on Data Mining Workshops, ICDM Workshops 2014, Shenzhen, China, December 14, 201
+一种使用概念近似度约简的序列模式挖掘方法
+一种快速的基于特征选择的跨领域情感分类方法
+数据流中概念漂移检测与分类方法研究
+基于微信小程序和Python的人工智能原理实验方案设计
+在线社交网络影响力分析
+碎片化家谱数据的融合技术
+Learning Design Knowledge as Generalization
+Subchloroplast Location Prediction via Homolog Knowledge Transfer and Feature Selection
+2013 IEEE 13th International Conference on Data Mining, Dallas, TX, USA, December 7-10, 201
+图算法求解带有限长空位和one-off约束的模式匹配问题
+一种基于最大熵模型的加权归纳迁移学习方法
+一般间隙序列模式挖掘的关键词抽取
+用于非直接对抗性体育比赛的编排算法
+Identifying bridging rules between conceptual clusters
+Message from the TCCI Chair
+基于VPRS的近似概念格模型及其构造
+基于词向量空间模型的文本分类方法
+利用D-S证据理论进行特征融合的同义实体识别
+MapReduce与Spark用于大数据分析之比较
+IEEE 16th International Conference on Data Mining, ICDM 2016, December 12-15, 2016, Barcelona, Spai
+Error-aware Markov blanket learning for causal feature selection.
+Editorial: TKDE Editorial Board Changes
+国际信息集成研究的知识分布、演化与热点分析——基于1969-2017年Web of Science文献数据
+基于L1正则化的贝叶斯网络分类器
+基于迭代Lasso的肿瘤分类信息基因选择方法研究
+特征背离和风险偏好分析的股价态势预测方法 (Trend Forecast of Stock Price Based on Deviated Characteristics and Risk Preference)
+一种基于混合集成方法的数据流概念漂移检测方法
+基于区间类信息熵的连续属性离散化方法
+非计算机专业程序设计课程教学中的问题及对策
+12th IEEE International Conference on Data Mining Workshops, ICDM Workshops, Brussels, Belgium, December 10, 201
+面向评论信息的跨领域词汇情感倾向判别方法 (Approach of Cross-domain Word Sentiment Orientation Identification on Reviews)
+基于核极限学习机的多标签数据流集成分类方法
+General Averaged Divergence Analysis
+基于标签路径特征的Web新闻内容抽取研究
+一种基于主动贝叶斯分类技术的垃圾邮件过滤方法
+高等院校教职工信息管理系统(MIS)
+LOFS: Library of Online Streaming Feature Selection.
+一种面向不完全标记的文本数据流自适应分类方法
+IEEE International Conference on Data Mining, ICDM 2021, Auckland, New Zealand, December 7-10, 202
+Learning Label-Specific Features and Class-Dependent Labels for Multi-Label Classification
+Proceedings of the 19th ACM Conference on Information and Knowledge Management, CIKM 2010, Toronto, Ontario, Canada, October 26-30, 201
+用于辅助决策的专家系统技术
+基于语义联系的新闻网页关键词抽取
+Corrections to "An Effective Confidence-Based Early Classification of Time Series"
+基于Web的频繁分子结构挖掘系统
+一种基于多阶邻居的网络环境下多标签分类算法
+2014 IEEE International Conference on Data Mining, ICDM 2014, Shenzhen, China, December 14-17, 201
+社交网络中的群体行为分类方法研究
+基于概念格的决策表属性约简方法
+EIC Editorial: 2007 TKDE Editorial Board Changes
+贝叶斯网络隐藏变量维数学习研究及应用
+Cleansing Noisy Data Streams
+基于NSGA2的网络环境下多标签种子节点选择
+基于属性值分类的多层次粗糙集模型
+International Conference on Internet Multimedia Computing and Service, ICIMCS '13, Huangshan, China - August 17 - 19, 201
+安徽省高校教职工信息管理分析系统的开发与应用
+2015 IEEE International Conference on Data Mining, ICDM 2015, Atlantic City, NJ, USA, November 14-17, 201
+Fast Co-Clustering by Ranking and Sampling
+融合关联规则与知识的贝叶斯网络学习算法
+推理网络的回路识别算法
+Trustworthy Preference Completion in Social Choice
+Data Mining Workshops (ICDMW), 2011 IEEE 11th International Conference on, Vancouver, BC, Canada, December 11, 201
+从知识图谱到数据中台:华谱系统
+基于粗糙集决策树优化研究
+原料NiO粉末对燃料电池Ni/SDC阳极材料微结构和性能的影响
+一种基于层次树的高效密度聚类算法
+毕业设计过程中文献资料的查阅与运用能力的培养
+Towards Efficient Local Causal Structure Learning.
+数据结构课程设计的改革与创新探讨
+Single multiplicatively updated matrix factorization for co-clustering
+User-Centered Agents for Structured Information Location on the Web
+Learning Relation-Specific Representations for Few-shot Knowledge Graph Completion.
+在线商品评论有用性影响因素研究
+11th IEEE International Conference on Data Mining, ICDM 2011, Vancouver, BC, Canada, December 11-14, 201
+带通配符和One-Off条件的序列模式挖掘
+Feature Selection for Efficient Local-to-Global Bayesian Network Structure Learning
+从大数据到大知识:HACE+BigKE
+基于学生解题分析的认知诊断研究
+新闻网页自动识别的相关特征研究
+一种基于UFFT的数据流分类器
+知识类型研究
+ICDM 2009, The Ninth IEEE International Conference on Data Mining, Miami, Florida, USA, 6-9 December 200
+基于C4.5和NB混合模型的数据流分类算法
+IEEE International Conference on Data Mining Workshops, ICDM Workshops 2016, December 12-15, 2016, Barcelona, Spain
+多Agent动态影响图及其概率分布的近似方法
+LDPNet: A Lightweight Densely Connected Pyramid Network for Real-Time Semantic Segmentation
+基于案例导学的软件体系结构课程教学模式
+20th International Conference on Data Mining Workshops, ICDM Workshops 2020, Sorrento, Italy, November 17-20, 202
+Bayesian Tensor Approach for 3-D Face Modeling
+Learning Relation-Specific Representations for Few-shot Knowledge Graph Completion
+NetDAP: (δ, γ) -approximate pattern matching with length constraints
+Manifold Elastic Net: A Unified Framework for Sparse Dimension Reductio
+结合相似度量和反馈调节的推荐算法
+钙钛矿型混合导体透氧膜材料的制备和性能研究
+ICDMW 2010, The 10th IEEE International Conference on Data Mining Workshops, Sydney, Australia, 13 December 201
+毕业设计项目训练方法的研究与实践
+Chinese Lexical Simplification
+一种有效的数据流二次聚类算法
+一种基于多桥映射的跨领域文本分类方法
+SAIL-APPROX: An Efficient On-Line Algorithm for Approximate Pattern Matching with Wildcards and Length Constraints
+Data Mining: How Research Meets Practical Development
+HAO Unity: A Graph-based System for Unifying Heterogeneous Data
+La0.7Sr0.3Ga0.6Fe0.4O3-δ氧离子导体材料的制备与表征
+药物-疾病关系预测:一种推荐系统模型
+Proceedings of the 2001 IEEE International Conference on Data Mining, 29 November - 2 December 2001, San Jose, California, US
+基于块密度加权标签路径特征的Web新闻在线抽取
+Guest Editors' Introduction: Mining Actionable Knowledge on the Web
+基于领域模型的网页搜索排序算法
+Coupled behavior analysis for capturing coupling relationships in group-based market manipulations
+基于自身特征扩展的短文本分类方法
+OASNET: an optimal allocation approach to influence maximization in modular social networks
+基于稀疏编码多尺度空间潜在语义分析的图像分类
+普适医疗信息管理与服务的关键技术与挑战
+A Temporal Knowledge Graph Completion Method Based on Balanced Timestamp Distribution.
+周期性一般间隙约束的序列模式挖掘
+Sc2O3-Sm2O3共掺杂CeO2基电解质的电导率和还原稳定性
+EIC Editorial: TKDE Editorial Board Changes
+动态影响图模型研究
+一种面向不完全标记的文本数据流自适应分类方法 (Self-adaptation Classification for Incomplete Labeled Text Data Stream)
+基于半随机多决策树模型的数据流概念漂移发现研究
+一种基于全局领域和短期记忆因子的图模型
+倾斜数据流中正例样本的漂移检测方法
+带任意长度通配符的模式匹配
+基于Logistic回归分析的直推式迁移学习
+K-split Lasso:有效的肿瘤特征基因选择方法
+Learning From Short Text Streams With Topic Drifts
+A matrix modular SVM robust to imbalanced data for efficient visual concept detection
+基于密度聚类模式的中文新闻网页关键词提取
+Dual Confidence Learning Network for Open-World Time Series Classification
+不精确推理实现的问题和求解
+利用项集有序特性改进Apriori算法
+领域自适应任务中的动态参数调整方法
+ICDM 2010, The 10th IEEE International Conference on Data Mining, Sydney, Australia, 14-17 December 201
+ProteinNET: A Protein Interaction Network Integration System
+生产式知识结构的内部表示
+扩张矩阵的最优化问题
+一种基于混合遗传的贝叶斯网络分解算法
+Semistructured Data Store Mapping with XML and Its Reconstruction.
+一种基于因果强度的局部因果结构主动学习方法
+User-Centered Biological Information Location by Combining User Profiles and Domain Knowledge
+带有通配符和长度约束的模式匹配问题求解模型
+一个知识获取程序(KAP)的设计与实现
+带有通配符和长度约束的模式匹配问题求解模型 (Models for Pattern Matching with Wildcards and Length Constraints)
+基于领域知识的预警规则发现研究
+一种过滤式多标签特征选择算法
+基于word2vec的跨领域情感分类方法
+无重叠条件严格模式匹配的高效求解算法
+2017 IEEE International Conference on Data Mining Workshops, ICDM Workshops 2017, New Orleans, LA, USA, November 18-21, 201
+Research and Development in Knowledge Discovery and Data Mining, Second Pacific-Asia Conference, PAKDD-98, Melbourne, Australia, April 15-17, 1998, Proceeding
+基于Spark的快速短文本数据流分类方法
+基于动态影响图的股市趋势预测
+一个定性的多指标多评价人员的专家系统评价模型
+High-Quality Noise Detection for Knowledge Graph Embedding with Rule-Based Triple Confidence
+一个基于知识排序的线性正向推理算法
+Does Social Media Big Data Make the World Smaller? An Exploratory Analysis of Keyword-Hashtag Networks
+Rearranging data objects for efficient and stable clustering
+2014 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2014, Beijing, China, August 17-20, 201
+Majority Voting and Pairing with Multiple Noisy Labeling
+Hybrid Interpretation of 'No Match' and 'Multiple Match' in Induction
+基于分布式概念格的分类规则挖掘
+基于随机子空间的多标签类属特征提取算法
+数据库系统中的参数获取
+基于实例重构的多领域快速适应方法

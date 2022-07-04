@@ -1,0 +1,31 @@
+1、创建数据库grade
+create database grade
+2、创建表student
+create table student(id int primary key auto_increment,name varchar(32) not null,age tinyint unsigned, bobby set('basketball','computer','running','football'),score float,comment text);
+3、表字段如下
+    id name age hobby score comment
+
+4.插入若干数据
+    age：4~16
+    score：0~100
+    hobby：football computer running basketball
+    
+    insert into student values (1,'小刚',8,'basketball,computer',87.5,'ok');
+    insert into student values (2,'小红',12,'computer',78,'啊啊啊啊啊啊啊啊');
+    insert into student values (3,'小明',13,'basketball',54,'哦哦哦哦哦哦哦');
+    insert into student values (4,'小刚',15,'computer',75,'鹅鹅鹅鹅鹅');
+    insert into student values (5,'小刚',14,'basketball,computer',34,'么么么么么么么');
+    insert into student values (6,'小刚',13,null,95,'妈妈妈妈妈');
+    insert into student values (7,'小刚',16,'football,computer',97,'乐乐乐啦啦啦');
+
+
+5、查找
+    查找所有年龄不到10岁或者大于14岁的同学
+    select * from student where age>14 or age < 10;
+    查找兴趣爱好中包含computer的同学
+    select * from student where find_in_set('computer',hobby);
+    查找年龄大于等于15 又喜欢踢足球的同学
+    查找不及格，兴趣爱好又不为空的同学
+    select * from student where score<60 and hobby is not null;
+    查找成绩大于90分的所有同学，只看姓名和成绩
+    select name,score from student where score>90;

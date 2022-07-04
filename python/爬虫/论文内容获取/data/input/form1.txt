@@ -1,0 +1,19 @@
+基于图和LDA主题模型的关键词抽取算法
+10 Years of Data Mining Research: Retrospect and Prospect
+11th IEEE International Conference on Data Mining, ICDM 2011, Vancouver, BC, Canada, December 11-14, 201
+12th IEEE International Conference on Data Mining Workshops, ICDM Workshops, Brussels, Belgium, December 10, 201
+12th IEEE International Conference on Data Mining, ICDM 2012, Brussels, Belgium, December 10-13, 201
+13th IEEE International Conference on Data Mining Workshops, ICDM Workshops, TX, USA, December 7-10, 201
+2013 IEEE 13th International Conference on Data Mining, Dallas, TX, USA, December 7-10, 201
+2014 IEEE International Conference on Data Mining Workshops, ICDM Workshops 2014, Shenzhen, China, December 14, 201
+2014 IEEE International Conference on Data Mining, ICDM 2014, Shenzhen, China, December 14-17, 201
+2014 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2014, Beijing, China, August 17-20, 201
+2015 IEEE International Conference on Data Mining, ICDM 2015, Atlantic City, NJ, USA, November 14-17, 201
+2017 IEEE International Conference on Data Mining Workshops, ICDM Workshops 2017, New Orleans, LA, USA, November 18-21, 201
+2017 IEEE International Conference on Data Mining, ICDM 2017, New Orleans, LA, USA, November 18-21, 201
+2018 IEEE International Conference on Big Knowledge, ICBK 2018, Singapore, November 17-18, 201
+2019 IEEE International Conference on Big Knowledge, ICBK 2019, Beijing, China, November 10-11, 201
+2019 IEEE International Conference on Data Mining, ICDM 2019, Beijing, China, November 8-11, 201
+20th IEEE International Conference on Data Mining, ICDM 2020, Sorrento, Italy, November 17-20, 202
+20th International Conference on Data Mining Workshops, ICDM Workshops 2020, Sorrento, Italy, November 17-20, 202
+3-D Object Retrieval With Hausdorff Distance Learning
