@@ -131,6 +131,6 @@ master是主分支
 >git push 远程主机名 标签名[--tags](上传所有标签)
 
 >git branch -a -- 可以看到在远程仓库的分支
->git push 远程仓库名 : 分支名 -- 删除远程分支
-
-
+>git push 远程仓库名 ：分支名 -- 删除远程分支
+>git push 远程仓库名 --delete tag [tagname]
+>git push --force origin
