@@ -134,3 +134,8 @@ master是主分支
 >git push 远程仓库名 ：分支名 -- 删除远程分支
 >git push 远程仓库名 --delete tag [tagname]
 >git push --force origin
+
+#####4、从远程获取代码
+***git pull***
+>
+
