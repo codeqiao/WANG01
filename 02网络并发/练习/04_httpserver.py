@@ -40,4 +40,6 @@ sockfd.listen(3)
 
 while True:
     connfd,addr = sockfd.accept()
+    print(addr)
     request(connfd) # 处理客户端
+    print("asd")
