@@ -522,3 +522,133 @@ select:active{
 > > ·16进制
 > > ·rgb(,,)
 > > ·rgba(,,,): a表示透明度
+
+# 盒子模型(重点)
+
+## 一、边框
+
+##### 1.边框实现
+```html
+border:width style color; 
+
+参数：
+    边框样式：
+        solid   实线
+        dotted  点线边框
+        dashed  虚线边框
+        double  双线边框
+
+    #test{
+        width: 100px;
+        height: 100px;
+        margin: 0 auto;
+        border: 2px solid red;
+        background-color: rebeccapurple;
+    }
+```
+
+##### 2.单一边框实现
+```html
+取值:width style color;
+
+取值：
+    border-top      上边框
+    border-left     左
+    border-right    右
+    border-bottom   下
+```
+##### 3、网页三角标制作
+> 1、元素设置宽高为0
+> 2、统一设置四个方向透明边框
+> 3、边框某个方向边框可见色
+
+```html
+    #test2{
+        margin: 0 auto;
+        width: 0px;
+        height: 0px;
+        border: 50px solid blue;
+        border-bottom-color: transparent;
+    }
+```
+
+##### 4、圆角边框
+> 1、属性：border-redius 指定圆角半径
+> 2、取值：像素值或百分比
+> 3、取值规律：
+```html
+一个值  表示统一设置上右下左
+四个值  表示分别设置上下左右
+两个值  表示分别设置上下 左右
+三个值  表示分别设置上右下，左右保持一致
+    #test3{
+        width: 100px;
+        height: 100px;
+        background: url('../data/05.jpg');
+        background-size: cover;
+        border-radius: 100px;
+        margin: 0 auto;
+        border: 2px solid red;
+            
+    }
+```
+
+##### 5、轮廓线
+> 1.属性：outline
+> 2.取值：width style color
+> 3.区别：边框实际占位，轮廓不占位
+> 4.特殊：取none可以取消文本输入框默认轮廓线
+
+```html
+获得焦点就有，否则就没有
+    input{
+        outline: none;
+    }
+```
+
+##### 6、盒阴影
+> 1、属性值：box-shadow
+> 2、取值：h-shadow v-shadow blur [spread color]
+> 3、使用：不管是浏览器窗口还是元素自身都可以构建坐标系，统一以左上角为远点，向右下为x轴和y轴正方向
+
+```
+h-shadow    取像素值，阴影的水平偏移距离
+v-shadow    取像素值，阴影的垂直偏移距离
+blur        取值像素，标识阴影的模糊程度，值越大越模糊
+spread      选填，取值像素，阴影的尺寸
+color       设置阴影颜色。默认为黑色
+```
+
+##### 7、盒模型概念
+> 在模型中，他规定了元素处理内容、内边距、边框和外边距的方式
+> 最内是内容，包围内容的事内边距，内边距(padding)的边缘是边框
+> 边框以外的是外边距(margin)
+
+##### 8、内边距
+> 1.属性：padding
+> 2.作用：调整元素内容与边框之间的距离
+> 3.取值：单位是px或百分比，但是不允许使用负值
+
+```
+上右下左
+20px    
+20px 30px
+20px 30px 40px
+20px 30px 40px 50px
+```
+
+##### 8、外边距
+> 1.属性：margin
+> 2.作用：调整元素之间的距离
+> 3.特殊：
+```html
+margin:0;取消默认外边距
+margin:0 auto;左右自动外边距，实现元素在父元素范围内水平居中
+margin:-10px;元素位置的微调
+```
+> 4.少了左边右边补少了上边下边补
+
+> 5.外边距合并
+
+![](./data/07.jpg)
+![](./data/08.jpg)

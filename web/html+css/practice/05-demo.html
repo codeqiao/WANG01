@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #reg{
+            width: 345px;
+            margin: auto;
+            margin-top: 250px;
+        }
+        label{
+            
+            /* 内联元素不可以决定自己的宽度  */
+            display: inline-block;
+            width: 88px;
+            border: solid 1px red;
+            text-align: right;
+        }
+        .btn{
+            width: 180px;
+            background-color: green;
+            color: white;
+            padding: 10px;
+            border: 0px;
+            border-radius: 4px;
+        }
+        div{
+            margin: 20px 0px;
+        }
+        .pad{
+            padding: 7px;
+        }
+    </style>
+</head>
+<body>
+    <div id="reg">
+        <form action="#">
+            <div>
+                <label for="email">*邮箱地址:</label>
+                <input type="text"
+                       id="email"
+                       name="email"
+                       class="pad">
+
+            </div>
+            <div>
+                <label for="setpass">*设置密码:</label>
+                <input type="password"
+                           id="setpass"
+                           name="setpass"
+                           class="pad">
+            </div>
+            <div>
+                <label for="hobby" class="h">*兴趣标签:</label>
+                <span>
+                    <input type="checkbox">新闻
+                    <input type="checkbox">文化
+                    <input type="checkbox">体育
+                    <input type="checkbox">新闻
+                </span>
+                   
+            </div>
+            <div>
+                <label for="code">验证码</label>
+                <input type="text" class="pad" style="width: 80px;">
+            </div>
+            <div>
+                <label for="sub"></label>
+                <input class="btn" type="submit" value="立即注册">
+            </div>
+            <div>
+                <label for=""></label>
+                <a href="">《兴亮网络注册协议》</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
