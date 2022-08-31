@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ul{
+            width: 550px;
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        ul>li{
+            border-bottom: solid 1px #cee2df;
+            overflow: hidden;
+        }
+        ul>li>span{
+            width: 109px;
+            float: left;
+            border-right: solid 1px #cee2df;
+        }
+    </style>
+    <script src="../code/js/jquery-3.6.0.min.js"></script>
+
+</head>
+<body>
+
+    <ul>
+        <li><span>Product</span><span>Price</span><span>ID Code</span><span>Quality</span><span>Exp Date</span></li>
+        <li><span>Pro 1</span><span>52 $</span><span>4587</span><span>Good</span><span>02/01/2009</span></li>
+        <li><span>Pro 1</span><span>52 $</span><span>4587</span><span>Good</span><span>02/01/2009</span></li>
+        <li><span>Pro 1</span><span>52 $</span><span>4587</span><span>Good</span><span>02/01/2009</span></li>
+        <li><span>Pro 1</span><span>52 $</span><span>4587</span><span>Good</span><span>02/01/2009</span></li>
+        <li><span>Pro 1</span><span>52 $</span><span>4587</span><span>Good</span><span>02/01/2009</span></li>
+        <li><span>Pro 1</span><span>52 $</span><span>4587</span><span>Good</span><span>02/01/2009</span></li>
+    </ul>
+
+
+
+    <script>
+        //each
+        $('ul>li:not(li:first)').each(function(index,elem){
+            // 将每一项转化为jq对象
+            $(elem).on("mouseover",function(){
+                $(this).css({"background-color":"#aaa","color":"#fff"});
+            }).on("mouseout",function(){
+                $(this).css({"background-color":"#fff","color":"#000"});
+            })
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,337 @@
+Self-adaptive nonoverlapping sequential pattern mining
+NetNMSP: Nonoverlapping maximal sequential pattern mining
+Certainty-based Preference Completion
+General assembly framework for online streaming feature selection via Rough Set models
+NWP-Miner: Nonoverlapping weak-gap sequential pattern mining
+Online feature selection for multi-source streaming features
+Combining embedding-based and symbol-based methods for entity alignment
+Representation learning with deep sparse auto-encoder for multi-task learning
+Dual-Representation-Based Autoencoder for Domain Adaptation
+Frequent Pattern Mining in Big Social Graphs
+{MULFE:} Multi-Label Learning via Label-Specific Feature Space Ensemble
+NTP-Miner: Nonoverlapping Three-Way Sequential Pattern Mining
+Social Group Query Based on Multi-Fuzzy-Constrained Strong Simulation
+Online Scalable Streaming Feature Selection via Dynamic Decision
+{PSL:} An Algorithm for Partial Bayesian Network Structure Learning
+{DGDFS:} Dependence Guided Discriminative Feature Selection for Predicting Adverse Drug-Drug Interaction
+Short Text Topic Modeling Techniques, Applications, and Performance: {A} Survey
+A Data-Characteristic-Aware Latent Factor Model for Web Services QoS Prediction
+A Survey on Large-Scale Machine Learning
+The Evolution of Search: Three Computing Paradigms
+OWSP-Miner: Self-adaptive One-off Weak-gap Strong Pattern Mining
+OPP-Miner: Order-preserving sequential pattern mining
+Prompt-Learning for Short Text Classification
+Learning Relation-Specific Representations for Few-shot Knowledge Graph Completion
+Chinese Idiom Paraphrasing
+Embedding Knowledge for Document Summarization: {A} Survey
+One-off Negative Sequential Pattern Mining
+Deep Forest with Hashing Screening and Window Screening
+Knowledge graph enhanced neural collaborative recommendation
+HAOP-Miner: Self-adaptive high-average utility one-off sequential pattern mining
+Shared-view and specific-view information extraction for recommendation
+Representation learning with collaborative autoencoder for personalized recommendation
+Hierarchical features-based targeted aspect extraction from online reviews
+Suffix array for multi-pattern matching with variable length wildcards
+Hybrid collaborative recommendation of co-embedded item attributes and graph features
+Knowledge Graph enhanced Neural Collaborative Filtering with Residual Recurrent Network
+Multi-label text classification via joint learning from label embedding and label correlation
+Collaborative filtering with a deep adversarial and attention network for cross-domain recommendation
+Which, Who and How: Detecting fraudulent sale accumulation behavior from multi-dimensional sparse data
+A coarse-to-fine collective entity linking method for heterogeneous information networks
+HANP-Miner: High average utility nonoverlapping sequential pattern mining
+{FSPRM:} {A} Feature Subsequence Based Probability Representation Model for Chinese Word Embedding
+Chinese Lexical Simplification
+LSBert: Lexical Simplification Based on {BERT}
+Using Feature Selection for Local Causal Structure Learning
+Local Graph Edge Partitioning
+A Dynamic Convolutional Neural Network Based Shared-Bike Demand Forecasting Model
+Stacked Convolutional Sparse Auto-Encoders for Representation Learning
+Self-Adaptive Skeleton Approaches to Detect Self-Organized Coalitions From Brain Functional Networks Through Probabilistic Mixture Models
+Unsupervised Statistical Text Simplification
+Multi-Label Truth Inference for Crowdsourcing Using Mixture Models
+Context-Dependent Propagating-Based Video Recommendation in Multimodal Heterogeneous Information Networks
+Toward Mining Capricious Data Streams: {A} Generative Approach
+Feature Interaction for Streaming Feature Selection
+Short-term Load Forecasting by Using Improved {GEP} and Abnormal Load Recognition
+Deep Attributed Network Embedding by Preserving Structure and Attribute Information
+Dynamic Community Evolution Analysis Framework for Large-Scale Complex Networks Based on Strong and Weak Events
+{HAO} Unity: {A} Graph-based System for Unifying Heterogeneous Data
+Towards Efficient Local Causal Structure Learning
+Social Group Query Based on Multi-fuzzy-constrained Strong Simulation
+Hybrid Collaborative Recommendation via Dual-Autoencoder
+A Framework for Subgraph Detection in Interdependent Networks via Graph Block-Structured Optimization
+NetNPG: Nonoverlapping pattern matching with general gap constraints
+Targeted aspects oriented topic modeling for short texts
+NetDAP: ({\(\delta\)
+Numerical sensitive data recognition based on hybrid gene expression programming for active distribution networks
+Causality-based Feature Selection: Methods and Evaluations
+Multi-fuzzy-constrained graph pattern matching with big graph data
+Weighted partial order oriented three-way decisions under score-based common voting rules
+Collaborative deep recommendation with global and local item correlations
+Towards efficient and effective discovery of Markov blankets for feature selection
+A no self-edge stochastic block model and a heuristic algorithm for balanced anti-community detection in networks
+NetNCSP: Nonoverlapping closed sequential pattern mining
+{GLLPA:} {A} Graph Layout based Label Propagation Algorithm for community detection
+{REMIAN:} Real-Time and Error-Tolerant Missing Value Imputation
+Time series indexing by dynamic covering with cross-range constraints
+Online Learning to Accelerate Neural Network Inference with Traveling Classifiers
+LSBert: {A} Simple Framework for Lexical Simplification
+A Survey on Large-scale Machine Learning
+Chinese Lexical Simplification
+Trustworthy Preference Completion in Social Choice
+Online Feature Selection for Streaming Features Using Self-Adaption Sliding-Window Sampling
+Document Specific Supervised Keyphrase Extraction With Strong Semantic Relations
+A practical algorithm for solving the sparseness problem of short text clustering
+Multi-modal multi-view Bayesian semantic embedding for community question answering
+Transfer learning with deep manifold regularized auto-encoders
+Online streaming feature selection using adapted Neighborhood Rough Set
+Multi-Objective Optimization-Based Networked Multi-Label Active Learning
+On big wisdom
+OFS-Density: {A} novel online streaming feature selection method
+{SEEN:} {A} Selective Encryption Method to Ensure Confidentiality for Big Sensing Data Streams
+{BAMB:} {A} Balanced Markov Blanket Discovery Approach to Feature Selection
+Detecting and Assessing Anomalous Evolutionary Behaviors of Nodes in Evolving Social Networks
+Heterogeneous-Length Text Topic Modeling for Reader-Aware Multi-Document Summarization
+Majority Voting and Pairing with Multiple Noisy Labeling
+A Study on Big Knowledge and Its Engineering Issues
+Object Detection With Deep Learning: {A} Review
+Recommending New Features from Mobile App Descriptions
+Short Text Topic Modeling Techniques, Applications, and Performance: {A} Survey
+A Simple BERT-Based Approach for Lexical Simplification
+Causality-based Feature Selection: Methods and Evaluations
+{NETASPNO:} Approximate Strict Pattern Matching Under Nonoverlapping Condition
+Short text clustering based on Pitman-Yor process mixture model
+Document-specific keyphrase candidate search and ranking
+A survey on online feature selection with streaming features
+A framework for semantic connection based topic evolution with DeepWalk
+Efficient pattern matching with periodical wildcards in uncertain sequences
+Collaborative social deep learning for celebrity recommendation
+A set-level joint sparse representation for image set classification
+Collective semantic behavior extraction in social networks
+Welcoming two new Co-Editors-in-Chief for {KAIS}
+Co-occurrence pattern mining based on a biological approximation scoring matrix
+Multi-pattern matching with variable-length wildcards using suffix tree
+A Novel Variable Precision Reduction Approach to Comprehensive Knowledge Systems
+Joint Feature Selection and Classification for Multilabel Learning
+Learning From Short Text Streams With Topic Drifts
+{NOSEP:} Nonoverlapping Sequence Pattern Mining With Gap Constraints
+Predicting Long-Term Trajectories of Connected Vehicles via the Prefix-Projection Technique
+Editorial: {TKDD} Special Issue on Interactive Data Exploration and Analytics
+Employing Semantic Context for Sparse Information Extraction Assessment
+Multi-Instance Learning with Discriminative Bag Mapping
+A Fast Parallel Community Discovery Model on Complex Networks Through Approximate Optimization
+Improving Crowdsourced Label Quality Using Noise Correction
+{AAANE:} Attention-based Adversarial Autoencoder for Multi-scale Network Embedding
+Object Detection with Deep Learning: {A} Review
+{STTM:} {A} Tool for Short Text Topic Modeling
+Knowledge Engineering With Big Data (BigKE): {A} 54-Month, 45-Million RMB, 15-Institution National Grand Project
+LDA-Based Topic Strength Analysis
+Strict pattern matching under non-overlapping condition
+Three-layer concept drifting detection in text data streams
+Consensus algorithms for biased labeling in crowdsourcing
+Efficient sequential pattern mining with wildcards for keyphrase extraction
+Online feature selection for high-dimensional class-imbalanced data
+Image set classification based on cooperative sparse representation
+{SALE:} Self-adaptive {LSH} encoding for multi-instance learning
+Positive and Unlabeled Multi-Graph Learning
+Streaming Feature Selection for Multilabel Learning Based on Fuzzy Mutual Information
+Incremental Subgraph Feature Selection for Graph Classification
+Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy
+User Vitality Ranking and Prediction in Social Networking Services: {A} Dynamic Network Perspective
+Big Search in Cyberspace
+On Deep Learning for Trust-Aware Recommendations in Social Networks
+Robust Joint Graph Sparse Coding for Unsupervised Spectral Feature Selection
+Markov Blanket Feature Selection Using Representative Sets
+Towards Effective Bug Triage with Towards Effective Bug Triage with Software Data Reduction Techniques
+Learning from crowdsourced labeled data: a survey
+On digital image trustworthiness
+Trust Agent-Based Behavior Induction in Social Networks
+Neighbor selection for multilabel classification
+Multi-label feature selection with streaming labels
+Web News Extraction via Tag Path Feature Fusion Using {DS} Theory
+Approximate pattern matching with gap constraints
+{\unicode{24102}}{\unicode{26377}}{\unicode{36890}}{\unicode{37197}}{\unicode{31526}}{\unicode{21644}}{\unicode{38271}}{\unicode{24230}}{\unicode{32422}}{\unicode{26463}}{\unicode{30340}}{\unicode{27169}}{\unicode{24335}}{\unicode{21305}}{\unicode{37197}}{\unicode{38382}}{\unicode{39064}}{\unicode{27714}}{\unicode{35299}}{\unicode{27169}}{\unicode{22411}} (Models for Pattern Matching with Wildcards and Length Constraints)
+Multi-document summarization using closed patterns
+{LOFS:} {A} library of online streaming feature selection
+Corrupted and occluded face recognition via cooperative sparse representation
+Scalable Nearest Neighbor Sparse Graph Approximation by Exploiting Graph Structure
+Scalable and Accurate Online Feature Selection for Big Data
+Multi-Class Ground Truth Inference in Crowdsourcing with Clustering
+Scalable Semi-Supervised Learning by Efficient Anchor Graph Regularization
+Discovering the k Representative Skyline Over a Sliding Window
+Online Learning from Trapezoidal Data Streams
+On the Feasibility of Distributed Kernel Regression for Big Data
+Learning Label-Specific Features and Class-Dependent Labels for Multi-Label Classification
+Spatiochromatic Context Modeling for Color Saliency Analysis
+{LOFS:} Library of Online Streaming Feature Selection
+Online Feature Selection with Group Structure Analysis
+Topic Modeling over Short Texts by Incorporating Word Embeddings
+Camera Fingerprint: {A} New Perspective for Identifying User's Identity
+An Incremental Decision Tree for Mining Multilabel Data
+Strict approximate pattern matching with general gaps
+Knowledge Engineering with Big Data
+Expanding dictionary for robust face recognition: pixel is not necessary while sparsity is
+ApLeaf: An efficient android-based plant leaf identification system
+Learning concept-drifting data streams with random ensemble decision trees
+Security and privacy protocols for perceptual image hashing
+Automatic determination about precision parameter value based on inclusion degree with variable precision rough set model
+Twitter {K-H} networks in action: Advancing biomedical literature for drug search
+Pattern matching with wildcards and length constraints using maximum network flow
+{CEKA:} a tool for mining the wisdom of crowds
+Penalized partial least square discriminant analysis with l\({}_{\mbox{1}}\) for multi-label data
+Cross-domain sentiment classification-feature divergence, polarity divergence or both?
+Active Learning With Imbalanced Multiple Noisy Labeling
+Classification with Streaming Features: An Emerging-Pattern Mining Approach
+Graph-Based Learning via Auto-Grouped Sparse Regularization and Kernelized Extension
+Towards Effective Bug Triage with Software Data Reduction Techniques
+Active Learning through Adaptive Heterogeneous Ensembling
+Imbalanced Multiple Noisy Labeling
+Visual Classification by {\(\mathscr{l}\)}\({}_{\mbox{1}}\)-Hypergraph Modeling
+A Large Probabilistic Semantic Network Based Approach to Compute Term Similarity
+Online Feature Selection with Group Structure Analysis
+Scalable and Accurate Online Feature Selection for Big Data
+Ensemble learning from multiple information sources via label propagation and consensus
+Mining sequential patterns with periodic wildcard gaps
+Editor's note
+Misleading classification
+Optimizing widths with {PSO} for center selection of Gaussian radial basis function networks
+A New Supervised Feature Selection Method for Pattern Classification
+Quality of information-based source assessment and selection
+Image quality assessment based on matching pursuit
+{MLSLR:} Multilabel Learning via Sparse Logistic Regression
+Pattern Matching with Flexible Wildcards
+Knowledge reduction for decision tables with attribute value taxonomies
+Authorship identification from unstructured texts
+A Matching Algorithm in {PMWL} based on CluTree
+A twitter recruitment intelligent system: association rule mining for smoking cessation
+How to Estimate the Regularization Parameter for Spectral Regression Discriminant Analysis and its Kernel Version?
+Image Annotation by Multiple-Instance Learning With Discriminative Feature Mapping and Selection
+3-D Object Retrieval With Hausdorff Distance Learning
+Data Mining with Big Data
+Mining Semantically Consistent Patterns for Cross-View Data
+Clustering web documents using hierarchical representation with multi-granularity
+A relation extraction method of Chinese named entities based on location and semantic features
+Pattern matching with wildcards and gap-length constraints based on a centrality-degree graph
+Multi-level rough set reduction for decision rule mining
+A real-time transportation prediction system
+{PMBC:} Pattern mining from biological sequences with wildcard constraints
+Mining stable patterns in multiple correlated databases
+Pnfs: Personalized Web News Filtering and Summarization
+{MAIL:} mining sequential patterns with wildcards
+Extracting elite pairwise constraints for clustering
+Anonymizing classification data using rough set theory
+Online Feature Selection with Streaming Features
+Multimedia encyclopedia construction by mining web knowledge
+Visual-Textual Joint Relevance Learning for Tag-Based Social Image Search
+Bridging Causal Relevance and Pattern Discriminability: Mining Emerging Patterns from High-Dimensional Data
+Mining bridging rules between conceptual clusters
+Exploring Causal Relationships with Streaming Features
+Intrusion Detection Models Based on Data Mining
+The Apriori property of sequence pattern mining with wildcard gaps
+Top-10 Data Mining Case Studies
+Learning from concept drifting data streams with unlabeled data
+Fast Co-Clustering by Ranking and Sampling
+Compressed labeling on distilled labelsets for multi-label learning
+Cooperative Sparse Representation in Two Opposite Directions for Semi-Supervised Image Annotation
+Multimodal Graph-Based Reranking for Web Image Search
+Mining Recurring Concept Drifts with Limited Labeled Streaming Data
+Automatic clustering using genetic algorithms
+A Bit-Parallel Algorithm for Sequential Pattern Matching with Wildcards
+Mining Approximate Repeating Patterns from Sequence Data with Gap Constraints
+Manifold elastic net: a unified framework for sparse dimension reduction
+Robust ensemble learning for mining noisy data streams
+{CLAP:} Collaborative pattern mining for distributed information systems
+Maximizing influence spread in modular social networks by optimal resource allocation
+Corrective classification: Learning from data imperfections with aggressive and diverse classifier ensembling
+A Chinese time ontology for the Semantic Web
+A structurally motivated framework for discriminant analysis
+Subkilometer crater discovery with boosting and transfer learning
+Ontology-Based Business Process Customization for Composite Web Services
+Fundamentals of association rules in data mining and knowledge discovery
+A Random Decision Tree Ensemble for Mining Concept Drifts from Noisy Data Streams
+Exploratory analysis of protein translation regulatory networks using hierarchical random graphs
+News Filtering and Summarization on the Web
+Integrating induction and deduction for noisy data mining
+Special issue on selected papers from {IEEE} {DMF} 2008
+A Modified Semi-Supervised Learning Algorithm on Laplacian Eigenmaps
+Nonnegative Matrix Factorization on Orthogonal Subspace
+Manifold Elastic Net: {A} Unified Framework for Sparse Dimension Reduction
+{NESVM:} a Fast Gradient Method for Support Vector Machines
+Mining globally interesting patterns from multiple databases using kernel estimation
+An Agent-Based Hybrid System for Microarray Data Analysis
+Ubiquitous Mining with Interactive Data Mining Agents
+Geometric Mean for Subspace Selection
+Regional category parsing in undirected graphical models
+{EIC} Editorial: Introducing the New Editor-in-Chief and Four New Associate Editors
+Optimizing Service Systems Based on Application-Level QoS
+Conceptual equivalence for contrast mining in classification learning
+Tensor Rank One Discriminant Analysis - {A} convergent method for discriminative multilinear subspace selection
+Top 10 algorithms in data mining
+Computing the minimum-support for mining frequent patterns
+Bayesian Tensor Approach for 3-D Face Modeling
+Editorial: {TKDE} Editorial Board Changes
+{TKDE} 20(12) (December 2008) {EIC} Editorial: State of the Transactions
+Mining With Noise Knowledge: Error-Aware Data Mining
+Real-Time Texture Synthesis Using s-Tile Set
+A Semi-Random Multiple Decision-Tree Algorithm for Mining Data Streams
+Mining maximal frequent itemsets from data streams
+Supervised tensor learning
+Mining Sequential Patterns across Time Sequences
+General Tensor Discriminant Analysis and Gabor Features for Gait Recognition
+Generic object recognition with regional statistical models and layer joint boosting
+{EIC} Editorial: 2007 {TKDE} Editorial Board Changes
+{TKDE} Guidelines for Survey Papers
+Bridging Local and Global Data Cleansing: Identifying Class Noise in Large, Distributed Data Datasets
+Mining in Anticipation for Concept Change: Proactive-Reactive Prediction in Data Streams
+A logical framework for identifying quality knowledge from different data sources
+10 Challenging Problems in Data Mining Research
+Effective classification of noisy data streams with attribute-oriented dynamic classifier selection
+Efficient string matching with wildcards and length constraints
+Asymmetric Bagging and Random Subspace for Support Vector Machines-Based Relevance Feedback in Image Retrieval
+Class Noise Handling for Effective Cost-Sensitive Learning by Cost-Guided Iterative Classification Filtering
+{EIC} Editorial: State of the Transactions
+{EIC} Editorial: {TKDE} Editorial Board Changes
+Support vector machines based on K-means clustering for real-time business intelligence systems
+Database classification for multi-database mining
+Mining Frequent Patterns with the Pattern Tree
+Video Data Mining: Semantic Indexing and Event Detection from the Association Perspective
+Cost-Constrained Data Acquisition for Intelligent Data Preparation
+{EIC} Editorial: {TKDE} Editorial Board Changes
+Editorial: {TKDE} Topic Area Revisions
+Class Noise vs. Attribute Noise: {A} Quantitative Study
+Data Mining: An {AI} Perspective
+Parameter Tuning for Induction-Algorithm-Oriented Feature Elimination
+Guest Editors' Introduction: Mining Actionable Knowledge on the Web
+Editorial: Introducing the New Editor-in-Chief
+Exploring video content structure for hierarchical summarization
+Efficient mining of both positive and negative association rules
+Multi-Database Mining
+Online First publication
+Data Mining: How Research Meets Practical Development?
+Hierarchical video content description and summarization using unified semantic and visual similarity
+Synthesizing High-Frequency Rules from Different Data Sources
+Message from the {TCCI} Chair
+Using Knowledge Anchors to Reduce Cognitive Overheads
+Large Scale Data Mining Based on Data Partitioning
+Building Intelligent Learning Database Systems
+Knowledge object modeling
+Editorial
+Editorial
+Fuzzy interpretation of discretized intervals
+Induction By Attribute Elimination
+Learning Design Knowledge as Generalization
+Object-Oriented Modeling of Multimedia Documents
+Wide Area Selection as a Hyperdocument Search Interface
+{LFA+:} {A} Fast Chaining Algorithm for Rule-Based Systems
+Rule Induction with Extension Matrices
+{RIEVL:} Recursive Induction Learning in Hand Gesture Recognition
+Hybrid Interpretation of 'No Match' and 'Multiple Match' in Induction
+SiteHelper: {A} Localized Agent That Helps Incremental Exploration of the World Wide Web
+Disorientation and Cognitive Overhead in Hypertext Systems
+A Bayesian Discretizer for Real-Valued Attributes
+Noise Handling with Extension Matrices
+Knowledge Objects
+Lecture Notes in Machine Learning
+Inductive learning: Algorithms and frontiers
+A Prolog-Based Presentation for Integrating Knowledge and Data
+Inductive learning

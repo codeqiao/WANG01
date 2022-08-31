@@ -1,0 +1,29 @@
+Modular control of discrete-event systems using similarity
+Combining context-relevant features with multi-stage attention network for short text classification
+Supervisory Control of Multiagent Discrete-Event Systems With Partial Observation
+Multidimensional distribution data association algorithm based on DNAzyme
+Optimal output synchronization of heterogeneous multi-agent systems using measured input-output data
+{SOH} estimation of Li-ion battery based on FA-BPNN-K-means optimization algorithm
+Stochastic stability and extended dissipativity analysis for delayed neural networks with markovian jump via novel integral inequality
+Design of Electronic Nose Detection System for Apple Quality Grading Based on Computational Fluid Dynamics Simulation and K-Nearest Neighbor Support Vector Machine
+Cladding Mode Fitting-Assisted Automatic Refractive Index Demodulation Optical Fiber Sensor Probe Based on Tilted Fiber Bragg Grating and {SPR}
+Reinforcement Learning-Based Tracking Control for a Class of Discrete-Time Systems With Actuator Fault
+A Novel Ultrasonic Doppler Fetal Heart Rate Detection System Using Windowed Digital Demodulation
+{DKG-PIPD:} {A} Novel Method About Building Deep Knowledge Graph
+Sampling-Based Event-Triggered Control for Neutral-Type Complex-Valued Neural Networks with Partly Unknown Markov Jump and Time-Varying Delay
+Fuzzy modeling of boiler efficiency in power plants
+Time and Frequency Network for Human Action Detection in Videos
+Supervisory Control of Multi-Agent Discrete-Event Systems with Partial Observation
+A Configuration Optimization Method of Integrating Concentrating {\&} Migration Genetic Algorithm for Cellular Reconfigurable Spacecrafts
+Research on Factors Affecting the Imaging Resolution of Magneto-Acousto-Electrical Tomography
+A Multiple-Instance Learning-Based Convolutional Neural Network Model to Detect the {IDH1} Mutation in the Histopathology Images of Glioma Tissues
+Analyzing the Effects of Sea Surface Temperature {(SST)} on Soil Moisture {(SM)} in Coastal Areas of Eastern China
+UniFuzz: Optimizing Distributed Fuzzing via Dynamic Centralized Task Scheduling
+Selective Learning Confusion Class for Text-Based {CAPTCHA} Recognition
+On scalable supervisory control of multi-agent discrete-event systems
+Distributed {RISE} control for spacecraft formation reconfiguration with collision avoidance
+Barrier Lyapunov Functions-Based Adaptive Neural Control for Permanent Magnet Synchronous Motors With Full-State Constraints
+{\unicode{22522}}{\unicode{20110}}{\unicode{25913}}{\unicode{36827}}ViBe{\unicode{31639}}{\unicode{27861}}{\unicode{30340}}{\unicode{22253}}{\unicode{26519}}{\unicode{28216}}{\unicode{23458}}{\unicode{26816}}{\unicode{27979}}{\unicode{30740}}{\unicode{31350}} (Garden Tourist Detection Based on Improved ViBe Algorithm)
+On Scalable Supervisory Control of Multi-Agent Discrete-Event Systems
+Soft Hough Forest-ERTs: Generalized Hough Transform based object detection from soft-labelled training data
+Production of biodiesel from Jatropha curcas L. oil

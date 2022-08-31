@@ -1,0 +1,361 @@
+Bayesian auctions with efficient queries
+Evolution of initial discontinuities in the Riemann problem for the Jaulent-Miodek equation with positive dispersion
+Classification of flag-transitive point-primitive non-symmetric 2-(v, k, {\(\lambda\)}) designs with v100
+Novel translation knowledge graph completion model based on 2D convolution
+Lightweight network architecture using difference saliency maps for facial action unit detection
+AMDBNorm: an approach based on distribution adjustment to eliminate batch effects of gene expression data
+Biomedical relation extraction via knowledge-enhanced reading comprehension
+The role of {MRI} in the diagnosis and management of tracheal diverticulum
+An effective fine grading method of {BI-RADS} classification in mammography
+Probability-conservative simulation for \emph{L{\'{e}}vy} financial model by a mixed finite element method
+Further study of the localized solutions of the (2+1)-dimensional B-Kadomtsev-Petviashvili equation
+The Laplacian Spectrum, Kirchhoff Index, and the Number of Spanning Trees of the Linear Heptagonal Networks
+Simple but Beautiful: {A} Case Study on the {ZHI} Project of Traditional Craftsmanship
+Market targeting with social influences and risk aversion in a co-branding alliance
+MDA{\unicode{8239}}+{\unicode{8239}}RRT: {A} general approach for resolving the problem of angle constraint for hyper-redundant manipulator
+An Optimized Neural Network Prediction Model for Reservoir Porosity Based on Improved Shuffled Frog Leaping Algorithm
+Contract strategy in the presence of chain to chain competition
+Design and slip prevention control of a multi-sensory anthropomorphic prosthetic hand
+Evaluation Method of Classroom Teaching Effect Under Intelligent Teaching Mode
+Quantitative Evaluation System of Upper Limb Motor Function of Stroke Patients Based on Desktop Rehabilitation Robot
+Quantitative Evaluation System of Wrist Motor Function for Stroke Patients Based on Force Feedback
+Global Solutions of the Vlasov-Poisson System with a Radiation Damping Term for General Initial Data
+Steady-State Performance Analysis of the Distributed FxLMS Algorithm for Narrowband {ANC} System With Frequency Mismatch
+{ERASE:} Energy Efficient Task Mapping and Resource Management for Work Stealing Runtimes
+PVSensing: {A} Process-Variation-Aware Space Allocation Strategy for 3D {NAND} Flash Memory
+Design of Wireless Individual-Drive System for Variable-Reluctance Stepping Motor
+Unveiling Interpretable Key Performance Indicators in Hypoxic Response: {A} System Identification Approach
+Dynamic Embedding Projection-Gated Convolutional Neural Networks for Text Classification
+Semi-Direct Monocular Visual-Inertial Odometry Using Point and Line Features for IoV
+Unified-memory-based hybrid processing for partition-oriented subgraph matching on {GPU}
+The Quadratic Wasserstein Metric With Squaring Scaling For Seismic Velocity Inversion
+{ERASE:} Energy Efficient Task Mapping and Resource Management for Work Stealing Runtimes
+{GBA:} {A} Tuning-free Approach to Switch between Synchronous and Asynchronous Training for Recommendation Model
+Anti-Forgery: Towards a Stealthy and Robust DeepFake Disruption Attack via Adversarial Perceptual-aware Perturbations
+{EM} Algorithm for Estimating Reliability of Multi-Release Open Source Software Based on General Masked Data
+A Novel Path Planning Algorithm Considering the Maximum Deflection Angle of Joint
+An Automatic {RF-EMF} Radiated Immunity Test System for Electricity Meters in Power Monitoring Sensor Networks
+Roles of host small RNAs in the evolution and host tropism of coronaviruses
+Letter to the Editor: Methods for mapping quantitative trait loci in autotetraploid species
+{CMBD:} a manually curated cancer metabolic biomarker knowledge database
+Pneumoconiosis computer aided diagnosis system based on X-rays and deep learning
+Cooperation of green R{\&}D in supply chain with downstream competition
+Truthfully coordinating participation routes in informative participatory sensing
+Isolation Forest-Based Mechanism to Defend against Interest Flooding Attacks in Named Data Networking
+A novel network aligner for the analysis of multiple protein-protein interaction networks
+Sliding Mode Control for Discrete-Time Systems with Randomly Occurring Uncertainties and Nonlinearities Under Hybrid Cyber Attacks
+Metric dimension and metric independence number of incidence graphs of symmetric designs
+Circuit k-covers of signed graphs
+Achieving Approximate Global Optimization of Truth Inference for Crowdsourcing Microtasks
+Measuring Software Maintainability with Na{\"{\i}}ve Bayes Classifier
+Adaptive Event-Triggered Synchronization of Uncertain Fractional Order Neural Networks with Double Deception Attacks and Time-Varying Delay
+Dynamic Event-Triggered Predictive Control for Interval Type-2 Fuzzy Systems with Imperfect Premise Matching
+Optimal decisions on prices, order quantities, and returns policies in a supply chain with two-period selling
+Why Can't {I} Stop Using Social Media Problematically? The Impact of Norm and Neutralization from the Regulatory Focus Perspective
+Improving Emotion Analysis for Speech-Induced EEGs Through EEMD-HHT-Based Feature Extraction and Electrode Selection
+Person image generation with attention-based injection network
+Real-time order allocation model by considering available-to-promise reserving, occupying and releasing mechanisms
+Manufacturer's channel strategy with retailer's store brand
+Optimal ordering and pricing policies in managing perishable products with quality deterioration
+University students' use of music for learning and well-being: {A} qualitative study and design implications
+Impact of resampling methods and classification models on the imbalanced credit scoring problems
+iDNA6mA-Rice-DL: {A} local web server for identifying {DNA} N6-methyladenine sites in rice genome by deep learning method
+Multidimensional analysis model of agricultural product supply chain competition based on mean fuzzy
+Link Prediction Algorithm for Signed Social Networks Based on Local and Global Tightness
+Clinical Application of Intravenous Thrombolysis in Transient Ischemic Attack and Ischemic Stroke Guided by Multimodal {MRI}
+The Effect of Intravenous Thrombolysis on Transient Ischemic Attack and Cerebral Infarction Patients Under the Guidance of Multimodal Magnetic Resonance Imaging
+A Novel Cluster-Based Wireless Sensor Network Reliability Model Using the Expectation Maximization Algorithm
+Pose transfer generation with semantic parsing attention network for person re-identification
+Signal Modulation Identification Based on Deep Learning in {FBMC/OQAM} Systems
+{HEU} Emotion: a large-scale database for multimodal emotion recognition in the wild
+Preliminary Research on a Comparison and Evaluation of {FY-4A} {LMI} and {ADTD} Data through a Moving Amplification Matching Algorithm
+Energy Management Strategy of a Hybrid Power System Based on {V2X} Vehicle Speed Prediction
+Special Section on the 48th Annual {ACM} Symposium on Theory of Computing {(STOC} 2016)
+An Algorithm of Occlusion Detection for the Surveillance Camera
+Optimized {CSMRI} Algorithm-Based {MRI} Image Analysis in the Active Rehabilitation Method for Patients with Acute Cerebral Infarction
+Fuzzy C-Means Algorithm-Based Adoption of Obturator Nerve Block under Adaptive Ultrasound Imaging for Bladder Tumor
+Image source identification with known post-processed based on convolutional neural network
+{DRL-QOR:} Deep Reinforcement Learning-Based QoS/QoE-Aware Adaptive Online Orchestration in NFV-Enabled Networks
+Practically Deploying Heavyweight Adaptive Bitrate Algorithms With Teacher-Student Learning
+{BALS:} Blocked Alternating Least Squares for Parallel Sparse Matrix Factorization on GPUs
+Modeling and Phase Synchronization Control of High-Power Wireless Power Transfer System Supplied By Modular Parallel Multi-Inverters
+Review Summary Generation in Online Systems: Frameworks for Supervised and Unsupervised Scenarios
+Eye-gaze Estimation with {HEOG} and Neck {EMG} using Deep Neural Networks
+Maximal Information Propagation via Lotteries
+Backdoor Pre-trained Models Can Transfer to All
+Direction of Arrival Estimation and Robust Adaptive Beamforming With Unfolded Augmented Coprime Array
+A Novel Amplitude Modulation Architecture via Time-Varying Programmable Metasurface for Wireless Communication Systems
+Artificial Human Balance Control by Calf Muscle Activation Modelling
+Adaptive Learning: {A} New Decentralized Reinforcement Learning Approach for Cooperative Multiagent Systems
+Automated Gleason Grading and Gleason Pattern Region Segmentation Based on Deep Learning for Pathological Images of Prostate Cancer
+iOceanSee: {A} Novel Scheme for Ocean State Estimation Using 3D Mobile Convolutional Neural Network
+Can Multipath {TCP} be Robust to Cyber Attacks With Incomplete Information?
+Research on the Prediction Method of Ultimate Bearing Capacity of {PBL} Based on {IAGA-BPNN} Algorithm
+A Deep Reinforcement Learning Based Switch Controller Mapping Strategy in Software Defined Network
+Preface: advances of real-case based operations research
+ADFinder: accurate detection of programmed {DNA} elimination using {NGS} high-throughput sequencing data
+A hybrid modelling approach to understanding adoption of precision agriculture technologies in Chinese cropping systems
+An Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences
+The Need for Cognition on Earthquake Risk in China Based on Psychological Distance Theory
+The impact of privacy seal on users? perception in network transactions
+Cross-spectral stereo matching for facial disparity estimation in the dark
+Investigation into Information Release of Chinese Government and Departments on {COVID-19}
+Multi-objective spatial keyword query with semantics: a distance-owner based approach
+Sourcing Strategy of Original Equipment Manufacturer with Quality Competition
+A {CLSTM-TMN} for marketing intention detection
+Semi-Supervised Bidirectional Long Short-Term Memory and Conditional Random Fields Model for Named-Entity Recognition Using Embeddings from Language Models Representations
+The Flow of Information in Trading: An Entropy Approach to Market Regimes
+Channel strategy for manufacturers in the presence of service freeriders
+clMF: {A} fine-grained and portable alternating least squares algorithm for parallel matrix factorization
+Medical image segmentation using deep learning with feature enhancement
+DDoS attack detection method based on network abnormal behaviour in big data environment
+Input-to-state stability of systems with non-instantaneous impulses
+Multipartite tracking consensus of linear MASs with arbitrarily projective parameters
+Research on Security of Mobile Communication Information Transmission Based on Heterogeneous Network
+{AI} and IoT-based collaborative business ecosystem: a case in Chinese fish farming industry
+From Traditional to VR-Based Online Education Platforms: {A} Model of the Mechanism Influencing User Migration
+Small Profits and Quick Returns: An Incentive Mechanism Design for Crowdsourcing Under Continuous Platform Competition
+{PAN:} Pipeline assisted neural networks model for data-to-text generation in social internet of things
+User information protection of e-commerce platform business based on credit evaluation system
+The auxiliary function method for waveform based earthquake location
+Expectation maximization identification algorithm for time-delay two-dimensional systems
+Primary Neuroendocrine Carcinoma of the Breast: Mammographic, Ultrasound, and Magnetic Resonance Imaging Findings
+Supply chain coordination with put option contracts and customer returns
+{\unicode{31526}}{\unicode{21495}}{\unicode{32593}}{\unicode{32476}}{\unicode{38142}}{\unicode{25509}}{\unicode{39044}}{\unicode{27979}}{\unicode{31639}}{\unicode{27861}}{\unicode{30740}}{\unicode{31350}}{\unicode{32508}}{\unicode{36848}} (Survey of Link Prediction Algorithms in Signed Networks)
+Memory-aware gated factorization machine for top-N recommendation
+Traffic signal coordination control along oversaturated two-way arterials
+Combining Segmentation Network and Nonsubsampled Contourlet Transform for Automatic Marine Raft Aquaculture Area Extraction from Sentinel-1 Images
+A Highly Sensitive Amperometric Glutamate Oxidase Microbiosensor Based on a Reduced Graphene Oxide/Prussian Blue Nanocube/Gold Nanoparticle Composite Film-Modified Pt Electrode
+Co-Training Semi-Supervised Deep Learning for Sentiment Classification of {MOOC} Forum Posts
+{HMCTS-OP:} Hierarchical {MCTS} Based Online Planning in the Asymmetric Adversarial Environment
+Gated Semantic Difference Based Sentence Semantic Equivalence Identification
+{SEARE:} {A} System for Exercise Activity Recognition and Quality Evaluation Based on Green Sensing
+Ultra-Compact Microsystems-Based Confocal Endomicroscope
+Protection Strategy for Wireless Charging Electrical Vehicles
+User Identity Linkage Across Social Networks via Community Preserving Network Embedding
+{HEU} Emotion: {A} Large-scale Database for Multi-modal Emotion Recognition in the Wild
+Scheduling Task-parallel Applications in Dynamically Asymmetric Environments
+Computational efficient deep neural network with difference attention maps for facial action unit detection
+A Lattice-Based Incremental Signature Scheme
+Traffic Accident's Severity Prediction: {A} Deep-Learning Approach-Based {CNN} Network
+A Time-Integral Crack Propagation Model Considering Thickness Effect
+Reconstruction of Complex Networks Under Missing and Spurious Noise Without Prior Knowledge
+A Post-Contingency Power Flow Control Strategy for {AC/DC} Hybrid Power Grid Considering the Dynamic Electrothermal Effects of Transmission Lines
+Personalised Control of Robotic Ankle Exoskeleton Through Experience-Based Adaptive Fuzzy Inference
+Cost Optimization for the Coupled Video Delivery Networks
+ClusVNFI: {A} Hierarchical Clustering-Based Approach for Solving {VNFI} Dilemma in {NFV} Orchestration
+Domination number of incidence graphs of block designs
+Exploring spatial-temporal relations via deep convolutional neural networks for traffic flow prediction with incomplete data
+Protein sequence information extraction and subcellular localization prediction with gapped k-Mer method
+Logistics automation management based on the Internet of things
+Emotional component analysis and forecast public opinion on micro-blog posts based on maximum entropy model
+Research on of overlapping community detection algorithm based on tag influence
+Mechanism design and mechanical analysis of multi-suction sliding cleaning robot used in glass curtain wall
+Multi-innovation Stochastic Gradient Algorithms for Input Nonlinear Time-Varying Systems Based on the Line Search Strategy
+The relationship between platform choice and supplier's efficiency- evidence from China's online to offline (O2O)e-commerce platforms
+Applying the Bayesian Stackelberg Active Deception Game for Securing Infrastructure Networks
+Causal Analysis of Learning Performance Based on a Bayesian Network and Mutual Information
+The impact of customer returns and bidirectional option contract on refund price and order decisions
+Contract design in a cross-sales supply chain with demand information asymmetry
+When should the offline retailer implement price matching?
+On workflow aware location-based service composition for personal trip planning
+High-Level Smart Decision Making of a Robot Based on Ontology in a Search and Rescue Scenario
+Special issue on 'New consideration of pricing in supply chains'
+Community Discovery in Weighted Networks Based on the Similarity of Common Neighbors
+Rethinking compact abating probability modeling for open set recognition problem in Cyber-physical systems
+{\unicode{22522}}{\unicode{20110}}{\unicode{25925}}{\unicode{38556}}{\unicode{23450}}{\unicode{20301}}{\unicode{30340}}{\unicode{27979}}{\unicode{35797}}{\unicode{29992}}{\unicode{20363}}{\unicode{20248}}{\unicode{20808}}{\unicode{25490}}{\unicode{24207}}{\unicode{26041}}{\unicode{27861}} (Priority Ranking Method of Test Cases Based on Fault Location)
+Prominent edge detection with deep metric expression and multi-scale features
+Theil-Based Countermeasure against Interest Flooding Attacks for Named Data Networks
+Effects of the Temporal Aggregation and Meteorological Conditions on the Parameter Robustness of {OCO-2} SIF-Based and LUE-Based {GPP} Models for Croplands
+A Robust Transmission Scheduling Approach for Internet of Things Sensing Service with Energy Harvesting
+Iterative Positioning Algorithm for Indoor Node Based on Distance Correction in WSNs
+Quality evaluation-based iterative seam estimation for image stitching
+From peripheral to core: a case study of a 3D printing firm on business ecosystems reconstruction
+Multimodal Human Hand Motion Sensing and Analysis - {A} Review
+Improved {LDA} Dimension Reduction Based Behavior Learning with Commodity WiFi for Cyber-Physical Systems
+DDoS Attack Detection Method Based on Network Abnormal Behavior in Big Data Environment
+Forecasting model based on information-granulated {GA-SVR} and {ARIMA} for producer price index
+An Adaptive Performance-oriented Scheduler for Static and Dynamic Heterogeneity
+Adaptive DDoS attack detection method based on multiple-kernel learning
+A Books Recommendation Approach Based on Online Bookstore Data
+Assessment of Urban Ecological Service value used in Urban Rail Transit Project
+To save the Environmental degradation: Please pay for ecosystem services!
+Towards a Verified Model of the Algorand Consensus Protocol in Coq
+Small Profits and Quick Returns: An Incentive Mechanism Design for IoT-based Crowdsourcing under Continuous Platform Competition
+How to Ask Better Questions? {A} Large-Scale Multi-Domain Dataset for Rewriting Ill-Formed Questions
+LEGaTO: Low-Energy, Secure, and Resilient Toolset for Heterogeneous Computing
+A Heterogeneous Graphical Model to Understand User-Level Sentiments in Social Media
+Real-Time Estimation of Battery State of Charge With Metabolic Grey Model and LabVIEW Platform
+An Anomaly Recognition and Autonomic Optimization Method to User's Sequence Behaviors for {D2D} Communications in {MCC}
+On the optimality of coupon books
+Short signed circuit covers of signed graphs
+Who should be pricing leader in the presence of customer returns?
+A collaborative analysis method of user abnormal behavior based on reputation voting in cloud environment
+Spintronic memristor synapse and its {RWC} learning algorithm
+Fuzzy iterative learning control strategy for powered ankle prosthesis
+Real Time Data Acquisition and Network Topology Research of Wireless Sensor Based on {RFID}
+The pessimistic diagnosability of Split-Star Networks under the {PMC} model
+Energy-Efficient Joint User Association and Power Allocation in Relay-Aided Massive {MIMO} Systems
+Large even factors of graphs
+The quadratic Wasserstein metric for earthquake location
+Partitioning Weighted Social Networks based on the Link Strength of Nodes and Communities
+Identification of Stochastically Perturbed Autonomous Systems from Temporal Sequences of Probability Density Functions
+Modeling and Analysis of a Nonlinear Age-Structured Model for Tumor Cell Populations with Quiescence
+{\unicode{19968}}{\unicode{31181}}{\unicode{22522}}{\unicode{20110}}{\unicode{24179}}{\unicode{38754}}{\unicode{36816}}{\unicode{21160}}{\unicode{35270}}{\unicode{24046}}{\unicode{19981}}{\unicode{21464}}{\unicode{24615}}{\unicode{30340}}{\unicode{31435}}{\unicode{20307}}{\unicode{35270}}{\unicode{39057}}{\unicode{25972}}{\unicode{24103}}{\unicode{20002}}{\unicode{22833}}{\unicode{37325}}{\unicode{24314}}{\unicode{25216}}{\unicode{26415}} (Whole Frame Loss Concealment Method for Stereo Video Basedon Disparity Consistence)
+{\unicode{29992}}{\unicode{20110}}{\unicode{24773}}{\unicode{24863}}{\unicode{20998}}{\unicode{31867}}{\unicode{30340}}{\unicode{21452}}{\unicode{21521}}{\unicode{28145}}{\unicode{24230}}LSTM (Deeply Hierarchical Bi-directional {LSTM} for Sentiment Classification)
+A POD-based reduced-order Crank-Nicolson finite volume element extrapolating algorithm for 2D Sobolev equations
+Unsupervised Indoor Localization Based on Smartphone Sensors, iBeacon and Wi-Fi
+Evaluation of Sentinel-2A Surface Reflectance Derived Using Sen2Cor in North America
+Application of Relative Entropy and Gradient Boosting Decision Tree to Fault Prognosis in Electronic Circuits
+HyCLASSS: {A} Hybrid Classifier for Automatic Sleep Stage Scoring
+A User Recognition Strategy Under Mobile Cloud Environment
+Ratio-Preserving Half-Cylindrical Warps for Natural Image Stitching
+Graph-based Hypothesis Generation for Parallax-tolerant Image Stitching
+Coarse-to-fine Seam Estimation for Image Stitching
+SmartSeed: Smart Seed Generation for Efficient Fuzzing
+Learning-based Natural Geometric Matching with Homography Prior
+Generative Adversarial Network based Speaker Adaptation for High Fidelity WaveNet Vocoder
+Provably Leakage-Resilient Password-Based Authenticated Key Exchange in the Standard Model
+GCI-groups in the alternating groups
+Close integration of pricing and supply chain decisions has strategic as well as operations level benefits
+Subcellular localization prediction of apoptosis proteins based on evolutionary information and support vector machine
+ComProSe: Shaping Future Public Safety Communities with ProSe-Based UAVs
+Existence and non-existence of nontrivial solutions for Schr{\"{o}}dinger systems via Nehari-Pohozaev manifold
+A general framework to design secure cloud storage protocol using homomorphic encryption scheme
+The quotients between the (revised) Szeged index and Wiener index of graphs
+The impact of customer returns in a supply chain with a common retailer
+When to introduce an online channel, and offer money back guarantees and personalized pricing?
+Optimal pricing policies for differentiated brands under different supply chain power structures
+Pre-Service Teachers' Development of Digital Literacies: {A} Case Study in a Wiki-Based Collaborative Writing Context
+A study on the author collaboration network in big data
+Editorial to the Special Issue on Optimization of Industrial Systems with Market Disruptions
+Enhancing revenue by offering a flexible product option
+Twin support vector regression with Huber loss
+Link Prediction in Signed Networks based on The Similarity and Structural Balance Theory
+{\unicode{22522}}{\unicode{20110}}{\unicode{24322}}{\unicode{26500}}{\unicode{20013}}{\unicode{25991}}{\unicode{22312}}{\unicode{32447}}{\unicode{30334}}{\unicode{31185}}{\unicode{30340}}{\unicode{23618}}{\unicode{27425}}{\unicode{35805}}{\unicode{39064}}{\unicode{26500}}{\unicode{24314}} (Building Hierarchical Topic Based on Heterogeneous Chinese Online Encyclopedia)
+{\unicode{24322}}{\unicode{26500}}{\unicode{23384}}{\unicode{20648}}{\unicode{24863}}{\unicode{30693}}{\unicode{30340}}Ceph{\unicode{23384}}{\unicode{20648}}{\unicode{31995}}{\unicode{32479}}{\unicode{25968}}{\unicode{25454}}{\unicode{25918}}{\unicode{32622}}{\unicode{26041}}{\unicode{27861}} (Heterogeneous Storage Aware Data Placement of Ceph Storage System)
+{\unicode{22810}}{\unicode{26680}}/{\unicode{20247}}{\unicode{26680}}{\unicode{24179}}{\unicode{21488}}{\unicode{19978}}{\unicode{25512}}{\unicode{33616}}{\unicode{31639}}{\unicode{27861}}{\unicode{30340}}{\unicode{23454}}{\unicode{29616}}{\unicode{19982}}{\unicode{24615}}{\unicode{33021}}{\unicode{35780}}{\unicode{20272}} (Implementation and Performance Evaluation of Recommender Algorithms Based on Multi-/Many-core Platforms)
+Subject-independent emotion recognition based on physiological signals: a three-stage decision method
+The role of business insurance in managing a manufacturer's product quality risk
+A Decision Mixture Model-Based Method for Inshore Ship Detection Using High-Resolution Remote Sensing Images
+Silicon Nanocrystals with pH-Sensitive Tunable Light Emission from Violet to Blue-Green
+Provision-After-Wait with Common Preferences
+Edge Position Detection of On-line Charged Vehicles With Segmental Wireless Power Supply
+Small Profits and Quick Returns: {A} Practical SocialWelfare Maximizing Incentive Mechanism for Deadline-Sensitive Tasks in Crowdsourcing
+Spectral-Energy Efficiency Tradeoff in Relay-Aided Massive {MIMO} Cellular Networks With Pilot Contamination
+A reduced-order extrapolation central difference scheme based on {POD} for two-dimensional fourth-order hyperbolic equations
+A multiple information fusion method for predicting subcellular locations of two different types of bacterial protein simultaneously
+On Isomorphisms of Vertex-transitive Graphs
+Identification Methods for Two-Variable Difference Systems
+Harmonic Source Localization Approach Based on Fast Kernel Entropy Optimization {ICA} and Minimum Conditional Entropy
+Gully Erosion Mapping and Monitoring at Multiple Scales Based on Multi-Source Remote Sensing Data of the Sancha River Catchment, Northeast China
+Virtual Network Embedding with Multi-attribute Node Ranking Based on {TOPSIS}
+Virtual Network Embedding through Security Risk Awareness and Optimization
+Offering a downgraded service to enhance profit?
+{\unicode{22522}}{\unicode{20110}}{\unicode{27010}}{\unicode{29575}}{\unicode{29983}}{\unicode{25104}}{\unicode{27169}}{\unicode{22411}}{\unicode{30340}}{\unicode{24494}}{\unicode{21338}}{\unicode{35805}}{\unicode{39064}}{\unicode{20256}}{\unicode{25773}}{\unicode{32676}}{\unicode{20307}}{\unicode{21010}}{\unicode{20998}}{\unicode{26041}}{\unicode{27861}} (Group Partition in Topic-related Microblogging Spreading Based on Probability Generation Model)
+{\unicode{32467}}{\unicode{21512}}{\unicode{20998}}{\unicode{27700}}{\unicode{23725}}{\unicode{31639}}{\unicode{27861}}{\unicode{30340}}{\unicode{27700}}{\unicode{24179}}{\unicode{38598}}{\unicode{21307}}{\unicode{23398}}{\unicode{22270}}{\unicode{20687}}{\unicode{20998}}{\unicode{21106}}{\unicode{26041}}{\unicode{27861}} (Level Set Medical Image Segmentation Method Combining Watershed Algorithm)
+An efficient and coordinated mapping algorithm in virtualized {SDN} networks
+All-fiber sensor based on few-mode fiber offset splicing structure cascaded with long-period fiber grating for curvature and acoustic measurement
+The Effects of Spatiotemporal Changes in Land Degradation on Ecosystem Services Values in Sanjiang Plain, China
+Decentralized Patrolling Under Constraints in Dynamic Environments
+Peak Temperature Minimization via Task Allocation and Splitting for Heterogeneous MPSoC Real-Time Systems
+Extremal degree resistance distances in fully loaded unicyclic graphs
+Determinants of employees' intention to exert pressure on firms to engage in web accessibility
+An efficient protocol for two-party explicit authenticated key agreement
+Overlapping community detection through an improved multi-objective quantum-behaved particle swarm optimization
+Online bin packing with (1, 1) and (2, {R)} bins
+{\unicode{22522}}{\unicode{20110}}{\unicode{22270}}{\unicode{20687}}{\unicode{23618}}{\unicode{30340}}{\unicode{21452}}{\unicode{27700}}{\unicode{24179}}{\unicode{38598}}{\unicode{22270}}{\unicode{20687}}{\unicode{20998}}{\unicode{21106}} (Double Level Set Image Segmentation Based on Image Layer)
+{\unicode{22522}}{\unicode{20110}}{\unicode{27169}}{\unicode{31946}}{\unicode{32858}}{\unicode{31867}}{\unicode{27700}}{\unicode{24179}}{\unicode{38598}}{\unicode{30340}}{\unicode{21307}}{\unicode{23398}}{\unicode{22270}}{\unicode{20687}}{\unicode{20998}}{\unicode{21106}}{\unicode{26041}}{\unicode{27861}} (Fuzzy Clustering Level Set Based Medical Image Segmentation Method)
+Single-Sample Face Recognition Based on Intra-Class Differences in a Variation Model
+Geometric structure-constraint tracking with confident parts
+Two-Factor Remote Authentication Protocol with User Anonymity Based on Elliptic Curve Cryptography
+A Variable Diagonal Loading Beamformer with Joint Uncertainties of Steering Vector and Covariance Matrix
+An Integrated Approach to Sink and Sensor Role Selection in Wireless Sensor Networks: Using Dynamic Programming
+Single soliton solutions of the coupled nonlinear Klein-Gordon equations with power law nonlinearity
+Parameter Identification Methods for an Additive Nonlinear System
+Lease expiration management for a single lease term in the apartment industry
+The Huffman-like Alignment in Manifold Learning
+A Novel Approach for Solving Semidefinite Programs
+Several gradient parameter estimation algorithms for dual-rate sampled systems
+Multi-agent Remote Sensing Image Segmentation Algorithm
+Adaptive energy-efficient scheduling algorithm for parallel tasks on homogeneous clusters
+A Cost-driven Approach for Metamorphic Testing
+Stochastic gradient algorithm for a dual-rate Box-Jenkins model based on auxiliary model and FIRmode
+Three-Dimensional Imaging of Spinning Space Debris Based on the Narrow-Band Radar
+Evaluating Parameter Adjustment in the {MODIS} Gross Primary Production Algorithm Based on Eddy Covariance Tower Measurements
+A Bayesian Based Method to Generate a Synergetic Land-Cover Map from Existing Land-Cover Products
+An efficient fair UC-secure protocol for two-party computation
+Development of an Electrochemical Sensing Technique for Rapid Genotyping of Hepatitis {B} Virus
+Sparse Representation for Infrared Dim Target Detection via a Discriminative Over-Complete Dictionary Learned Online
+An Improved Performance Frequency Estimation Algorithm for Passive Wireless {SAW} Resonant Sensors
+State-Aware Dynamic Frequency Selection Scheme for Energy-Harvesting Real-Time Systems
+The impact of customer returns on supply chain decisions under various channel interactions
+Multi-innovation stochastic gradient algorithms for dual-rate sampled systems with preload nonlinearity
+MGAviewer: a desktop visualization tool for analysis of metagenomics alignment data
+A new hybrid differential evolution with simulated annealing and self-adaptive immune operation
+A Family of Half-Transitive Graphs
+An Auxiliary-Model-Based Stochastic Gradient Algorithm for Dual-Rate Sampled-Data Box-Jenkins Systems
+Multiple bifurcations in a predator-prey System of Holling and Leslie Type with Constant-Yield prey harvesting
+Normalized {SAD} Method for Chinese Document Image Registration
+Electrical characterization of integrated passive devices using thin film technology for 3D integration
+Bifurcations of Invariant Tori in Predator-Prey Models with Seasonal Prey Harvesting
+Local Coordinates Alignment With Global Preservation for Dimensionality Reduction
+Local Patches Alignment Embedding Based Localization for Wireless Sensor Networks
+Harmony search algorithm with dynamic control parameters
+Parameter identification of systems with preload nonlinearities based on the finite impulse response model and negative gradient search
+Contracting with demand uncertainty under supply chain competition
+BioDKM: Bio-inspired domain knowledge modeling method for humanoid delivery robots' planning
+A Tuning Method Of Passive Filter Based On Variable Reactors
+The adjacent strong edge chromatic number of P\({}_{\mbox{4}}\) {\(\vee\)} K\({}_{\mbox{m, n}}\) and C\({}_{\mbox{5}}\) {\(\vee\)} K\({}_{\mbox{m, n}}\)
+Thalamic cooperation between the cerebellum and basal ganglia with a new tropism-based action-dependent heuristic dynamic programming method
+The total \{k\}-domatic number of wheels and complete graphs
+Security Implications and Considerations for Femtocells
+Risk of inefficiency on the Chinese index futures market
+Locally linear embedding: a survey
+Uniform persistence for a discrete predator-prey system with delays
+Disc cutters plane layout design of the full-face rock tunnel boring machine {(TBM)} based on different layout patterns
+Development and evaluation of a computerized Mandarin speech test system in China
+Coordinating a decentralized supply chain with customer returns and price-dependent stochastic demand using a buyback policy
+The impact of sharing customer returns information in a supply chain with and without a buyback policy
+Constraints on the Neighborhood Size in {LLE}
+A new slotting method for 2D digital gear tooth surfaces
+Effective Retransmission in Network Coding for {TCP}
+The adjacent strong edge chromatic number of P\({}_{\mbox{1}}\) {\(\vee\)} K\({}_{\mbox{m, n}}\) C\({}_{\mbox{2}}\) {\(\vee\)} K\({}_{\mbox{m, n}}\)
+Bionic experiments based on autonomous operant conditioning automata
+Locally Linear Embedding: a Review
+The impact of customer returns on decisions in a newsvendor problem with and without buyback policies
+A reduced finite volume element formulation and numerical simulations based on {POD} for parabolic problems
+Symplectic structure-preserving integrators for the two-dimensional Gross-Pitaevskii equation for {BEC}
+On-line {NNAC} for a Balancing Two-Wheeled Robot Using Feedback-Error-Learning on the Neurophysiological Mechanism
+An Adaptive Spatio-Temporal Error Concealment Scheme Based on {H.264/AVC}
+A novel linear multi-secret sharing scheme for group communication in wireless mesh networks
+{GRAP:} Grey risk assessment based on projection in ad hoc networks
+Stars and Misfits: Self-Employment and Labor Market Frictions
+Community cyberinfrastructure for Advanced Microbial Ecology Research and Analysis: the {CAMERA} resource
+Exposing Digital Video Logo-Removal Forgery by Inconsistency of Blur
+Secure Authentication Scheme based on {IBE}
+Feature-based initial population generation for the optimization of job shop problems
+Auxiliary model based multi-innovation algorithms for multivariable nonlinear systems
+An unsupervised partition method based on association delineated revised mutual information
+The impact of customer returns on pricing and order decisions
+A Machine Learning Framework for Real-Time Traffic Density Detection
+{TCAD} study on gate-all-around cylindrical {(GAAC)} transistor for {CMOS} scaling to the end of the roadmap
+Algorithm for Extracting Loosely Structured Data Records Through Digging Strict Patterns
+Mixed Finite Element Formulation and Error Estimates Based on Proper Orthogonal Decomposition for the Nonstationary Navier-Stokes Equations
+Refining the Results of Automatic E-Textbook Construction by Clustering
+An object-oriented framework for modular chemical process simulation with semiconductor processing applications
+Timed Extensions of {\(\pi\)} Calculus
+Pocket v.2: Further Developments on Receptor-Based Pharmacophore Modeling
+Existence and Uniqueness of Endemic States for the Age-Structured Seir Epidemic Model
+Evaluation of the representativeness of networks of sites for the global validation and intercomparison of land biophysical products: proposition of the {CEOS-BELMANIP}
+Age-dependent brain activation during forward and backward digit recall revealed by fMRI
+Automatically Generating an \emph{E}-textbook on the Web
+The Physical Foundation of Human Mind and a New Theory of Investment
+A Usage-Based Study of Preposed Verbal Quantification Structures in Chinese
+Model Checking Real-Time Value-Passing Systems
+Hard Real-Time Communication with the Timed Token Protocol: Current State and Challenging Problems
+An adaptive path routing scheme for satellite {IP} networks
+A comparison of {BRDF} models for the normalization of satellite optical data to a standard Sun-target-sensor geometry
+Impact of variable atmospheric water vapor content on {AVHRR} data corrections over land
+3D Modeling and Visualization Based on Laserscanning
+{MPEG-2} {AAC} decoder on a fixed-point {DSP}

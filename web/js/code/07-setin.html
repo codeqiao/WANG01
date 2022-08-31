@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #box{
+            width: 120px;
+            
+            margin: 0 auto;
+            padding: 10px 5px;
+        }
+        #box>span{
+            display: inline-block;
+            width: 20px;
+            text-align: center;
+            font-size: 20px;
+        }
+        .red{
+            background-color: aqua;
+        }
+        .borderRed{
+            border: solid 1px red;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="red borderRed" id="box">
+        <span id="hour">00</span>
+        <span>:</span>
+        <span id="minute">00</span>
+        <span>:</span>
+        <span id="second">00</span>
+    </div>
+
+    <script>
+
+        var divTime = document.getElementById('time');
+        var spanHour = document.getElementById('hour');
+        var spanMinute = document.getElementById('minute');
+        var spanSecond = document.getElementById('second');
+        var timerID = setInterval(() => {
+            var myDate = new Date();
+            var hour = getDouble(myDate.getHours())
+            var minute = getDouble(myDate.getMinutes());
+            var second = getDouble(myDate.getSeconds());
+            spanHour.innerText = hour;
+            spanMinute.innerText = minute;
+            spanSecond.innerText = second;
+        }, 1000);
+        
+        function getDouble(num){
+            if(num<10){
+                return '0'+num;
+            }else{
+                return num;
+            }
+        }
+    </script>
+
+    
+</body>
+</html>

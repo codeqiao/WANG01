@@ -1,0 +1,81 @@
+A hierarchical approach for fine-grained urban villages recognition fusing remote and social sensing data
+Dynamics analysis for the Wadati-Konno-Ichikawa(II)-short pulse equation
+A bibliometric analysis of research trends in bat echolocation studies between 1970 and 2021
+MFNet algorithm based on indoor scene segmentation
+A Sim-to-Real Object Recognition and Localization Framework for Industrial Robotic Bin Picking
+Jet-HR2: {A} Flying Bipedal Robot Based on Thrust Vector Control
+A Novel Optimal Time Window Determination Approach for {ISAR} Imaging of Ship Targets
+An Efficient Preprocessing Approach for Airborne Hybrid {SAR} and {ISAR} Imaging of Ship Target Based on Kernel Distribution
+Robust Multiple Model Predictive Control for Ascent Trajectory Tracking of Aerospace Vehicles
+Action-Centric Relation Transformer Network for Video Question Answering
+Three Dimension Airborne {SAR} Imaging of Rotational Target With Single Antenna and Performance Analysis
+Analysis of the Imaging Projection Plane for Ship Target With Spaceborne Radar
+Capacitor Lifetime-Based Power Routing of {ISOP-DAB} Converter Within Comprehensive Constraint
+Coupling graph deep learning and spatial-temporal influence of built environment for short-term bus travel demand prediction
+Exploring the Impact of Negative Samples of Contrastive Learning: {A} Case Study of Sentence Embeddin
+Towards Robust Part-aware Instance Segmentation for Industrial Bin Picking
+Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin-picking
+Couple-Group Consensus for First Order Discrete-Time Multiagent Systems With Competition-Cooperation and Input Saturation Constraints
+Visual Experimental Study on Two Phase Flow Patterns of the Evaporative Cooling System
+A Study on Stability Boundary of Highly Flexible Aircraft With Saturation Constraint
+Core dataset extraction from unlabeled medical big data for lesion localization
+{AIBPO:} Combine the Intrinsic Reward and Auxiliary Task for 3D Strategy Game
+Influence of Multiple Interactions in Value Cocreation on Sports Spectators' Perceived Value of Sports Events
+Study on the temporal and spatial distribution of chlorophyll a in Erhai Lake based on multispectral data from environmental satellites
+A Spatio-Temporal Schedule-Based Neural Network for Urban Taxi Waiting Time Prediction
+Relative geometry-aware siamese neural network for 6DOF camera relocalization
+A Parameter Dimension Reduction-Based Estimation Approach to Enhance the Kinematic Accuracy of a Parallel Hardware-in-the-Loop Docking Simulator
+Ship Target Imaging in Airborne {SAR} System Based on Automatic Image Segmentation and {ISAR} Technique
+End-to-End Fovea Localisation in Colour Fundus Images With a Hierarchical Deep Regression Network
+DeepHate: Hate Speech Detection via Multi-Faceted Text Representations
+AngryBERT: Joint Learning Target and Emotion for Hate Speech Detection
+Learning to Remove: Towards Isotropic Pre-trained {BERT} Embedding
+An End-to-End and Accurate PPG-based Respiratory Rate Estimation Approach Using Cycle Generative Adversarial Networks
+Disentangling Hate in Online Memes
+Spatio-temporal Parking Behaviour Forecasting and Analysis Before and During {COVID-19}
+Design of a Flying Humanoid Robot Based on Thrust Vector Control
+{ESOD:} Edge-based Task Scheduling for Object Detection
+Broadband Digital Over-the-Air Computation for Asynchronous Federated Edge Learning
+Space-Frequency Index Modulation for Combating {ICI} in Intelligent Mobility Communications
+Design of Space-Frequency Index Modulation Waveforms for {MIMO-OFDM} Heterogeneous Networks
+Comparing Test-Retest Reliability of Entropy Methods: Complexity Analysis of Resting-State fMRI
+An Efficient High-Quality Medical Lesion Image Data Labeling Method Based on Active Learning
+Knowing the price of success
+Hemispheric Asymmetry of Functional Brain Networks under Different Emotions Using {EEG} Data
+A contextual conditional random field network for monocular depth estimation
+A Simple High-Resolution Near-Field Probe for Microwave Non-Destructive Test and Imaging
+Retention Correlated Read Disturb Errors in 3-D Charge Trap {NAND} Flash Memory: Observations, Analysis, and Solutions
+Novel Approach for {ISAR} Cross-Range Scaling Based on the Multidelay Discrete Polynomial- Phase Transform Combined With Keystone Transform
+On Analyzing Annotation Consistency in Online Abusive Behavior Datasets
+MiniNet: An extremely lightweight convolutional neural network for real-time unsupervised monocular depth estimation
+On Analyzing Antisocial Behaviors Amid {COVID-19} Pandemic
+Deep Learning based Monocular Depth Prediction: Datasets, Methods and Applications
+Epileptic Seizure Detection With Permutation Fuzzy Entropy Using Robust Machine Learning Techniques
+Abnormal Entropy Modulation of the {EEG} Signal in Patients With Schizophrenia During the Auditory Paired-Stimulus Paradigm
+Analysis of associative memories based on cellular neural networks with value-varying templates
+Information fusion in visual question answering: {A} Survey
+Permutation Fuzzy Entropy - An Index for the Analysis of Epileptic Electroencephalogram
+{LCC:} Towards efficient label completion and correction for supervised medical image learning in smart diagnosis
+Photoacoustic microscopy of obesity-induced cerebrovascular alterations
+Indoor Topological Localization Using a Visual Landmark Sequence
+Relative Geometry-Aware Siamese Neural Network for 6DOF Camera Relocalization
+The Limits of Morality in Strategic Games
+Enhancing Remote Sensing Image Retrieval with Triplet Deep Metric Learning Network
+Vispi: Automatic Visual Perception and Interpretation of Chest X-rays
+A Method of Mining Hidden Transition of Business Process Based on Region
+Epileptic Seizure Prediction Based on Permutation Entropy
+Epileptic Seizure Detection Based on {EEG} Signals and {CNN}
+Design of ultra-wideband {LNA} with 3.6 {\(\pm\)} 0.4 dB {NF} and 15.9 {\(\pm\)} 1.1 dB gain
+{\unicode{22522}}{\unicode{20110}}{\unicode{36890}}{\unicode{35759}}{\unicode{34892}}{\unicode{20026}}{\unicode{36718}}{\unicode{24275}}{\unicode{25366}}{\unicode{25496}}{\unicode{26465}}{\unicode{20214}}{\unicode{38750}}{\unicode{39057}}{\unicode{32321}}{\unicode{34892}}{\unicode{20026}}{\unicode{30340}}{\unicode{26041}}{\unicode{27861}} (Method of Mining Conditional Infrequent Behavior Based on Communication Behavior Profile)
+Integrating Aerial and Street View Images for Urban Land Use Classification
+Functional and oxygen-metabolic photoacoustic microscopy of the awake mouse brain
+Asynchronous amplify-and-forward relay communications for underwater acoustic networks
+Stochastic Polynomial Decomposition-Based Energy-Efficient Hybrid {DLT} Codes
+Co-simulation research of a novel exoskeleton-human robot system on humanoid gaits with fuzzy-PID/PID algorithms
+Power and Location Optimization for Full-Duplex Decode-and-Forward Relaying
+A Render Data Optimized Organization Strategy Based on Kalman Prediction
+Relay-Aided Amplify-and-Forward Powerline Communications
+Decomposed {LT} Codes for Cooperative Relay Communications
+The Affecting Factors in Resource Optimization for Cooperative Communications: {A} Case Study
+Optimum Resource Allocation in Distributed {MIMO} Systems
+Optimum Resource Allocation for Amplify-and-Forward Relay Networks With Differential Modulation

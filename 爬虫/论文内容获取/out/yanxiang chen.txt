@@ -1,0 +1,20 @@
+Can you trust what you hear: Effects of audio-attacks on voice-to-face generation system
+Generating images from audio under semantic consistency
+EEPNet: An efficient and effective convolutional neural network for palmprint recognition
+Image generation via latent space learning using improved combination
+Hybrid image super-resolution using perceptual similarity from pre-trained network
+Video attention prediction using gaze saliency
+Accurate seat belt detection in road surveillance images based on {CNN} and {SVM}
+Camera-Assisted Video Saliency Prediction and Its Applications
+Engineering Deep Representations for Modeling Aesthetic Perception
+Media Quality Assessment by Perceptual Gaze-Shift Patterns Discovery
+Pedestrian detection by learning a mixture mask model and its implementation
+An Optical Fiber Lateral Displacement Measurement Method and Experiments Based on Reflective Grating Panel
+The Development of a Dual-Warhead Impact System for Dynamic Linearity Measurement of a High\emph{-g} Micro-Electro-Mechanical-Systems {(MEMS)} Accelerometer
+Improved seam carving combining with 3D saliency for image retargeting
+Indoor scene understanding via monocular {RGB-D} images
+An audio-visual human attention analysis approach to abrupt change detection in videos
+Image retargeting with a 3D saliency model
+Audio Matters in Visual Attention
+pIRS: Profile-based Illumina pair-end reads simulator
+{COPE:} an accurate \emph{k}-mer-based pair-end reads connection tool to facilitate genome assembly

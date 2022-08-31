@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #pic{
+            position: relative;
+            width: 300px;
+            height: 300px;
+            border: solid 2px red;
+        }
+
+        #pic>div:nth-child(1){
+            position:absolute;
+            left: 50px;
+            top: 30px;
+            /* 默认值为1 */
+            z-index: 2;
+        }
+
+        #pic>div:nth-child(2){
+            position: absolute;
+            left: 120px;
+            top: 70px;
+        }
+
+        #pic>div:nth-child(2):hover{
+            z-index: 3;
+        }
+    </style>
+</head>
+<body>
+    <div id="pic">
+        <div>
+            <img src="../data/08.jpg" alt="" width="100px">
+        </div>
+        <div>
+            <img src="../data/09.jpg" alt="" width="100px">
+        </div>
+    </div>
+</body>
+</html>

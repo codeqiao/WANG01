@@ -40,22 +40,28 @@ if __name__ == '__main__':
     pwd = os.path.dirname(os.path.abspath(__file__))
     pwd = pwd.replace('\\','/')
     print(pwd)
-    formlisttxt = f"{pwd}/data/input/form.txt"
-    dealinput = f'{pwd}/data/out/html'
+    formlisttxt = f"{pwd}/out/piepie li.txt"
+    dealinput = f'{pwd}/data/out/html/peipei li'
     dealout = f"{pwd}/data/out/out.txt"
     htmlout = f"{pwd}/data/out/html"
     c = ControlProgram(username,password,formlisttxt,dealinput,htmlout,dealout)
-    # c.scrap_data()
+    c.scrap_data()
 
-    temp = set()
-    with open(f"{pwd}/data/out/out.txt", 'r', encoding='utf-8') as f:
-        for i in f.readlines():
-            temp.add(i)
+    # temp = set()
+    # with open(f"{pwd}/data/out/out.txt", 'r', encoding='utf-8') as f:
+    #     for i in f.readlines():
+    #         temp.add(i)
     
-    with open(f"{pwd}/data/out/out.txt", 'w', encoding='utf-8') as f:
-        for i in temp:
-            f.write(i)
+    # with open(f"{pwd}/data/out/out.txt", 'w', encoding='utf-8') as f:
+    #     for i in temp:
+    #         f.write(i)
 
     # c.deal_data()
 
     
+
+
+
+
+
+

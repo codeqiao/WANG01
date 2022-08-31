@@ -52,6 +52,49 @@ class WebOfScienceSpider(object):
         login_button.click()
         time.sleep(0.5)
 
+    # 进如图书馆
+    def goto_library(self):
+        option = webdriver.EdgeOptions()
+        option.add_experimental_option('detach',True)
+        self.driver = webdriver.Edge(service=Service(location_driver),options=option)
+        # 获取登录页面
+        self.driver.get('http://www.hfut.edu.cn/')
+        time.sleep(0.5)
+        # 最大化浏览器
+        self.driver.maximize_window()
+        # 进入图书馆
+        self.driver.find_element(By.XPATH,'//*[@id="body_l"]/div[3]/ul/li[5]/a').click()
+
+         # 切换窗口,到新的矿口来操作
+        windows = self.driver.window_handles
+        self.driver.switch_to.window(windows[-1])
+        
+        #进入到数据库导航中
+        ziyuan = self.driver.find_element(By.XPATH,'/html/body/div[1]/div[1]/div[4]/ul[1]/li[1]')
+        # 实例化，悬浮，点击
+        ActionChains(self.driver).move_to_element(ziyuan).perform()
+        time.sleep(2)
+        datas_dirct = (By.XPATH,'/html/body/div[1]/div/div[4]/ul/li[1]/a')
+        
+        # /html/body/div[1]/div/div[4]/ul/li[1]/div/ul/li[2]/a
+        WebDriverWait(self.driver,20).until(EC.visibility_of_element_located(datas_dirct))
+        self.driver.find_element(*datas_dirct).click()
+        time.sleep(0.5)
+
+        # 切换窗口,到新的矿口来操作
+        windows = self.driver.window_handles
+        self.driver.switch_to.window(windows[-1])
+       
+        # 进入webofscience
+        self.driver.find_element(By.XPATH,'//*[@id="dbBiglist"]/div[2]/div[2]/table/tbody/tr[33]/td[1]/a').click()
+        # //*[@id="dbBiglist"]/div[2]/div[2]/table/tbody/tr[33]/td[1]/a
+        
+        time.sleep(10)
+        # 切换窗口,到新的矿口来操作
+        windows = self.driver.window_handles
+        self.driver.switch_to.window(windows[-1])
+
+
     # 进入web_of_science
     def goto_webofscience(self):
         # 滑动滚动条并进入图书馆
@@ -71,18 +114,30 @@ class WebOfScienceSpider(object):
         # 实例化，悬浮，点击
         ActionChains(self.driver).move_to_element(ziyuan).perform()
         time.sleep(2)
-        datas_dirct = (By.XPATH,'/html/body/div[1]/div/div[4]/ul/li[1]/div/ul/li[2]/a')
+        datas_dirct = (By.XPATH,'/html/body/div[1]/div/div[4]/ul/li[1]/a')
+        
+        # /html/body/div[1]/div/div[4]/ul/li[1]/div/ul/li[2]/a
         WebDriverWait(self.driver,20).until(EC.visibility_of_element_located(datas_dirct))
         self.driver.find_element(*datas_dirct).click()
         time.sleep(0.5)
 
-        # 进入webofscience
-        self.driver.find_element(By.XPATH,'//*[@id="dbBiglist"]/div[2]/div[2]/table/tbody/tr[33]/td[1]/a').click()
-        time.sleep(10)
         # 切换窗口,到新的矿口来操作
         windows = self.driver.window_handles
         self.driver.switch_to.window(windows[-1])
-    
+       
+        # 进入webofscience
+        self.driver.find_element(By.XPATH,'//*[@id="dbBiglist"]/div[2]/div[2]/table/tbody/tr[33]/td[1]/a').click()
+        # //*[@id="dbBiglist"]/div[2]/div[2]/table/tbody/tr[33]/td[1]/a
+        
+        time.sleep(1)
+        # 切换窗口,到新的矿口来操作
+        windows = self.driver.window_handles
+        self.driver.switch_to.window(windows[-1])
+        time.sleep(1)
+        try:
+            self.driver.find_element(By.XPATH,'//*[@id="onetrust-accept-btn-handler"]')
+        except:
+            print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
     # 搜素论文，并且获取页面源代码
     def get_html(self,search):
         # 清空输入栏的内容
@@ -101,7 +156,8 @@ class WebOfScienceSpider(object):
         if(title!=title1):
             # 点击进入第一个匹配选项     
             self.driver.execute_script('window.scrollTo(0,40)') 
-            self.driver.find_element(By.XPATH,'/html/body/app-wos/div/div/main/div/div[2]/app-input-route/app-base-summary-component/div/div[2]/app-records-list/app-record[1]/div/div/div[2]/div[1]/app-summary-title/h3/a').click()
+            # self.driver.find_element(By.XPATH,'/html/body/app-wos/div/div/main/div/div/div[2]/app-input-route/app-base-summary-component/div[2]/div/app-records-list/app-record/div/div/div[2]/div[1]/app-summary-title/h3/a').click()
+            self.driver.find_element(By.XPATH,'/html/body/app-wos/div/div/main/div/div/div[2]/app-input-route/app-base-summary-component/div/div[2]/app-records-list/app-record/div/div/div[2]/div[1]/app-summary-title/h3/a').click()
             search = search.replace('/','')
             filename = f'{self.out}/{search}.html'
             with open(filename,'w',encoding='utf-8') as f:
@@ -150,7 +206,8 @@ class WebOfScienceSpider(object):
 
     def run(self,article_list:list):
         self.get_login_web()
-        self.goto_webofscience()
+        self.goto_library()
+        # self.goto_webofscience()
         self.cricle_get(article_list)
         self.driver.quit()
 

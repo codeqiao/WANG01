@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/jquery-3.6.0.min.js"></script>
+    <script src="./js/blog.js"></script>
+</head>
+<body>
+    <div id="login">
+        <!-- 背景图片元素 -->
+        <img src="./imgs/log-background.png" alt="">
+    </div>
+
+    <!-- 使用form表单包裹div元素 -->
+    <form action="" onsubmit="return checkValue();">
+        <div id="log">  
+            <!-- 将所有的元素和数据添加到div中 -->
+            <div class="title">
+                <h3>Login!</h3>
+            </div>
+            <div class="tip">
+                Login:
+            </div>
+
+            <div class="item">
+                <input type="text"
+                    name="username"
+                    id="username"
+                    placeholder="UserName">
+            </div>
+            <div class="error" id="err1">用户名不能为空!</div>
+            <div class="item">
+                <input type="password"
+                    name="password"
+                    id="password"
+                    placeholder="Password">
+            </div>
+            <div class="error" id="err2">密码不能为空!</div>
+
+            <div class="btn">
+                <input type="submit" value="Login">
+            </div>          
+        </div>
+    </form> 
+</body>
+</html>

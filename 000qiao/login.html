@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            border: solid 0px red; 
+        }
+        #login{
+            width: 35%;
+            border: solid;
+            padding: 10px;
+            margin: 200px auto;
+            background-color: rgb(218, 255, 205);
+        }
+        .top{
+            /* border: solid; */
+            text-align: center;
+            background-color: rgb(199, 224, 197);
+        }
+        .mid{
+            margin-top: 10px;
+            background-color: #eee;
+        }
+
+        .bottom{
+            text-align: center;
+            margin-top: 10px;
+            background-color: #eee;
+        }
+        
+        input{
+            width: 50%;
+        }
+
+        label{
+            display: inline-block;
+            width: 20%;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div id="login">
+        <div class="top">
+            <h1>账号登录</h1>
+        </div>
+
+        <div class="mid">
+            <form action="#">
+                <div>
+                    <label for="name">账号:</label>
+                    <input type="text" name="name" id="name">
+                </div>
+                <div>
+                    <label for="pass">密码:</label>
+                    <input type="password" name="pass" id="pass">
+                </div>
+                <div>
+                    <label for="login1"></label>
+                    <input type="submit" value="登录" id="login1">
+                </div>
+                
+                
+            </form>
+        </div>
+        
+        <div class="bottom">
+            <a href="#">注册</a>
+        </div>
+    </div>
+</body>
+</html>

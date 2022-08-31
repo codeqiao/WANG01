@@ -1,0 +1,45 @@
+Object Detection Based on Deep Learning and B-Spline Level Set in Color Images
+Fast cortical surface reconstruction from {MRI} using deep learning
+Enabling the interpretability of pretrained venue representations using semantic categories
+Research on the dynamic mechanism of group emotional expression in the crisis
+The Case for FPGA-Based Edge Computing
+Regularized Sparse Modelling for Microarray Missing Value Estimation
+A Similarity Measurement with Entropy-Based Weighting for Clustering Mixed Numerical and Categorical Datasets
+Feasibility study of practical vital sign detection using millimeter-wave radios
+Machine knowledge and human cognition
+Deep ensemble learning for Alzheimer's disease classification
+An efficient causal structure learning algorithm for linear arbitrarily distributed continuous data
+A deep belief network-based method to identify proteomic risk markers for Alzheimer disease
+Digital personal health libraries: a systematic literature review
+Extracting causal relations from the literature with word vector mapping
+Hybrid Bucket Sorting Method for Successive Cancellation List Decoding of Polar Codes
+An efficient node deployment method for indoor passive localisation
+Microarray Missing Value Imputation: {A} Regularized Local Learning Method
+Deep ensemble learning for Alzheimers disease classification
+Reinforcement Learning Based Power Control for In-Body Sensors in WBANs Against Jamming
+Streaming feature-based causal structure learning algorithm with symmetrical uncertainty
+Subtype dependent biomarker identification and tumor classification from gene expression profiles
+Towards Human Activity Recognition: {A} Hierarchical Feature Selection Framework
+uGait: {A} platform for automated quantitative gait analysis and its application to Parkinson's disease
+Secure Mobile Crowdsensing with Deep Learning
+Nonlinear dimensionality reduction methods for synthetic biology biobricks' visualization
+Wrapper-based gene selection with Markov blanket
+Biobrick chain recommendations for genetic circuit design
+3D Tracker-Level Fusion for Robust {RGB-D} Tracking
+Redundancy reduction for indoor device-free localization
+Electric Vehicle Charging Station Placement for Urban Public Bus Systems
+Stochastic Multiview Hashing for Large-Scale Near-Duplicate Video Retrieval
+A global learning with local preservation method for microarray data imputation
+Cooperative Application Execution in Mobile Cloud Computing: {A} Stackelberg Game Approach
+A Partial Correlation Statistic Structure Learning Algorithm Under Linear Structural Equation Models
+Improving {PLS-RFE} based gene selection for microarray data classification
+Predicting hypertension without measurement: {A} non-invasive, questionnaire-based approach
+{\unicode{38754}}{\unicode{21521}}{\unicode{20915}}{\unicode{31574}}{\unicode{30340}}{\unicode{20449}}{\unicode{20219}}{\unicode{34701}}{\unicode{21512}}{\unicode{27169}}{\unicode{22411}}{\unicode{30740}}{\unicode{31350}} (Research on Fusion Trust Model for Decision-making)
+Accelerating wrapper-based feature selection with K-nearest-neighbor
+Speech Emotion Recognition Using Fourier Parameters
+Evaluation of robust wave image processing methods for magnetic resonance elastography
+Toward detection of aliases without string similarity
+Optimal parameters selection for {BP} neural network based on particle swarm optimization: {A} case study of wind speed forecasting
+Toward an Accurate Analysis of Range Queries on Spatial Data
+Energy-performance trade-offs for spatial access methods on memory-resident data
+Storing spatial data on a network of workstations

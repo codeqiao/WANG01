@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #ball{
+            background-color: gold;
+            width: 100px;
+            height: 100px;
+            border-radius: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    </style>
+    <script src="./js/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div>
+        <img id="img" src="../data/01.png" alt="">
+    </div>
+
+    <button id="btn">隐藏</button>
+    <div id="ball"></div>
+    <button id="move">移动</button>
+
+
+
+    <script>
+        $("#btn").on('click',function () {
+            if($("#btn").text()=='隐藏'){
+                $('#img').fadeOut(2000,function () {
+                $("#btn").text('显示');
+                })
+            }else{
+                $('#img').fadeIn(2000,function () {
+                $("#btn").text('隐藏');
+                })
+            }
+            
+        })
+
+        $("#move").on('click',function () {
+            $("#ball").animate({
+                left:'200px',
+                top:'1000px'
+            });
+            setTimeout(function(){
+                $("#ball").animate({
+                    top:'100px',
+                    left:'100px'
+            },function(){
+                $("#ball").fadeOut(2000)
+            });
+                
+            },0)
+        })
+
+        $(function(){
+            alert("文件加载完成")
+        })
+        $(function(){
+            alert("文件加载完成2")
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+Joint pyramid attention network for real-time semantic segmentation of urban scenes
+Combining context-relevant features with multi-stage attention network for short text classification
+Hierarchical GAN-Tree and Bi-Directional Capsules for multi-label image classification
+Learning common and label-specific features for multi-Label classification with correlation information
+Representation learning with deep sparse auto-encoder for multi-task learning
+Fuzzy Bayesian Knowledge Tracing
+Lightweight Asymmetric Dilation Network for Real-Time Semantic Segmentation
+Adversarial training with Wasserstein distance for learning cross-lingual word embeddings
+Attentive interaction-driven entity resolution over multi-source web information
+Semi-supervised classification on data streams with recurring concept drift and concept evolution
+Cognitive structure learning model for hierarchical multi-label text classification
+Recurring Drift Detection and Model Selection-Based Ensemble Classification for Data Streams with Unlabeled Data
+A Survey on Multi-Label Data Stream Classification
+Efficient Fast Semantic Segmentation Using Continuous Shuffle Dilated Convolutions
+Corrections to "An Effective Confidence-Based Early Classification of Time Series"
+LDPNet: {A} Lightweight Densely Connected Pyramid Network for Real-Time Semantic Segmentation
+Representation learning via serial robust autoencoder for domain adaptation
+DRU-net: a novel U-net for biomedical image segmentation
+Semi-supervised representation learning via dual autoencoders for domain adaptation
+Wasserstein {GAN} based on Autoencoder with back-translation for cross-lingual embedding mappings
+An Effective Confidence-Based Early Classification of Time Series
+Learning Kullback-Leibler Divergence-Based Gaussian Model for Multivariate Time Series Classification
+Marginalized Stacked Denoising Autoencoder With Adaptive Noise Probability for Cross Domain Classification
+Attribute Selection Based on Constraint Gain and Depth Optimal for a Decision Tree
+Representation learning via serial autoencoders for domain adaptation
+Transfer learning with deep manifold regularized auto-encoders
+Online streaming feature selection using adapted Neighborhood Rough Set
+An efficient and fast algorithm for community detection based on node role analysis
+OFS-Density: {A} novel online streaming feature selection method
+Semi-supervised representation learning via dual autoencoders for domain adaptation
+Entity Linking: An Issue to Extract Corresponding Entity With Knowledge Base
+Dead-core rate for the fast diffusion equation with strong absorption in higher dimensional cases
+Global asymptotic stability of steady states in a chemotaxis-growth system with singular sensitivity
+A survey on online feature selection with streaming features
+Simultaneous perturbation stochastic approximation-based radio occultation data assimilation for sensing atmospheric parameters
+Transfer learning with stacked reconstruction independent component analysis
+Co-occurrence pattern mining based on a biological approximation scoring matrix
+Online Biterm Topic Model based short text stream classification using short text expansion and concept drifting detection
+Learning From Short Text Streams With Topic Drifts
+Boundedness in a chemotaxis model with exponentially decaying diffusivity and consumption of chemoattractant
+Three-layer concept drifting detection in text data streams
+Online feature selection for high-dimensional class-imbalanced data
+Boundedness in the higher dimensional attraction-repulsion chemotaxis-growth system
+Domain adaptation via Multi-Layer Transfer Learning
+{\unicode{19968}}{\unicode{31181}}{\unicode{38754}}{\unicode{21521}}{\unicode{19981}}{\unicode{23436}}{\unicode{20840}}{\unicode{26631}}{\unicode{35760}}{\unicode{30340}}{\unicode{25991}}{\unicode{26412}}{\unicode{25968}}{\unicode{25454}}{\unicode{27969}}{\unicode{33258}}{\unicode{36866}}{\unicode{24212}}{\unicode{20998}}{\unicode{31867}}{\unicode{26041}}{\unicode{27861}} (Self-adaptation Classification for Incomplete Labeled Text Data Stream)
+A social tag clustering method based on common co-occurrence group similarity
+Multi-bridge transfer learning
+Role-based Label Propagation Algorithm for Community Detection
+Visual Processing by a Unified Schatten-p Norm and {\(\mathscr{l}\)}\({}_{\mbox{q}}\) Norm Regularized Principal Component Pursuit
+Online Feature Selection with Group Structure Analysis
+An Incremental Decision Tree for Mining Multilabel Data
+Learning concept-drifting data streams with random ensemble decision trees
+{\unicode{38754}}{\unicode{21521}}{\unicode{35780}}{\unicode{35770}}{\unicode{20449}}{\unicode{24687}}{\unicode{30340}}{\unicode{36328}}{\unicode{39046}}{\unicode{22495}}{\unicode{35789}}{\unicode{27719}}{\unicode{24773}}{\unicode{24863}}{\unicode{20542}}{\unicode{21521}}{\unicode{21028}}{\unicode{21035}}{\unicode{26041}}{\unicode{27861}} (Approach of Cross-domain Word Sentiment Orientation Identification on Reviews)
+Quadruple Transfer Learning: Exploiting both shared and non-shared concepts for text classification
+Visual data denoising with a unified Schatten-p norm and {\(\mathscr{l}\)}\({}_{\mbox{q}}\) norm regularized principal component pursuit
+Cross-domain sentiment classification-feature divergence, polarity divergence or both?
+A Large Probabilistic Semantic Network Based Approach to Compute Term Similarity
+Online Feature Selection with Group Structure Analysis
+Ensemble learning from multiple information sources via label propagation and consensus
+Quality of information-based source assessment and selection
+A Novel Variational Model with Strict Convexity for Multiplicative Noise Removal
+Knowledge reduction for decision tables with attribute value taxonomies
+A Matching Algorithm in {PMWL} based on CluTree
+Robust Face Recognition via Adaptive Sparse Representation
+Image Denoising with a Unified Schattern-p Norm and {\(\mathscr{l}\)}\({}_{\mbox{q}}\) Norm Regularization
+Robust Face Recognition via Adaptive Sparse Representation
+Pattern matching with wildcards and gap-length constraints based on a centrality-degree graph
+Multi-level rough set reduction for decision rule mining
+Mining stable patterns in multiple correlated databases
+{MAIL:} mining sequential patterns with wildcards
+A Parallel Clustering Algorithm with {MPI} - MKmeans
+Anonymizing classification data using rough set theory
+Learning from concept drifting data streams with unlabeled data
+Mining Recurring Concept Drifts with Limited Labeled Streaming Data
+A Bit-Parallel Algorithm for Sequential Pattern Matching with Wildcards
+A Random Decision Tree Ensemble for Mining Concept Drifts from Noisy Data Streams
+News Filtering and Summarization on the Web
+Research on Rough Set Theory and Applications in China
+A Semi-Random Multiple Decision-Tree Algorithm for Mining Data Streams

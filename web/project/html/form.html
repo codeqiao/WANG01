@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        #tip{
+            color: red;
+            display: none;
+        }
+    </style>
+
+    <script src="../js/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <!-- 提交到服务器的路径 -->
+    
+    <!-- 1.表单验证事件不在提交按钮上，数据由表单提供 -->
+    <form action="" onsubmit='return sub1();' name="form">
+        <!-- 表单中元素的name是用户获取数据的名称 -->
+        
+        <input type="text" 
+               name="aa"
+               id="aa">
+        <!-- id用于js/css中定位这个元素 -->
+        <input type="submit" value="提交" id="sub">
+        
+    </form>
+    <div id="tip">内容不能为空!</div>
+    <script>
+        // 验证事件在表单上
+        function sub1(){
+            console.log('asd')
+            if($('#aa').val()==''){
+                $('#tip').css('display','block');
+                $('#aa').focus();
+                return false;
+            }else{
+                return true;
+            }      
+        }
+    </script>
+</body>
+</html>

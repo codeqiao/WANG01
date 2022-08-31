@@ -1,0 +1,13 @@
+Achieving geometric convergence for distributed optimization with Barzilai-Borwein step sizes
+{PET} Image Reconstruction Using a Cascading Back-Projection Neural Network
+Asynchronous {\textbackslash}(H{\_}\{{\textbackslash}infty \}{\textbackslash}) Control of Switched Systems with Mode-Dependent Average Dwell Time
+Asynchronous control of discrete-time switched systems with non-linear perturbation
+Inertial sensors supported visual descriptors encoding and geometric verification for mobile visual location recognition applications
+{IEEE} International Conference on Advanced Intelligent Mechatronics, {AIM} 2015, Busan, South Korea, July 7-11, 2015
+Efficient {BOF} Generation and Compression for On-Device Mobile Visual Location Recognition
+Developing an expert panel process to refine health outcome definitions in observational data
+On-Device Mobile Visual Location Recognition by Integrating Vision and Inertial Sensors
+Sequential Effects in Two-Choice Reaction Time Tasks: Decomposition and Synthesis of Mechanisms
+On the dynamics of electrically-coupled neurons with inhibitory synapses
+Optimal Decisions: From Neural Spikes, through Stochastic Differential Equations, to Behavior
+Simple Neural Networks that Optimize Decisions

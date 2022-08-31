@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!-- 导入JQ框架 -->
+    <script src="./js/jquery-3.6.0.min.js"></script>
+    <style>
+        p{
+            background-color: red;
+            width: 200px;
+            margin: 0 auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="tip">hello world!</div>
+
+    <script>
+        // 输出jq对象
+        var a = $('#tip');
+
+        css1 = {
+            'background-color':'red',
+            'width':'200px',
+            'color':'wihte'
+        }
+        a.css(css1)
+        a.html(a.attr('class'))
+        
+        console.log($('#tip'));
+        // 输出dom对象
+        console.log(document.getElementById('tip'));
+    </script>
+</body>
+</html> 
+

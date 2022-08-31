@@ -1,0 +1,17 @@
+An Improved {SRGAN} Based Ambiguity Suppression Algorithm for {SAR} Ship Target Contrast Enhancement
+A Trilateral Filter for Video {SAR} Speckle Noise Reduction
+{AIS} Data Aided Rayleigh {CFAR} Ship Detection Algorithm of Multiple-Target Environment in {SAR} Images
+{SAR} Target Classification Using the Multikernel-Size Feature Fusion-Based Convolutional Neural Network
+A Fine PolSAR Terrain Classification Algorithm Using the Texture Feature Fusion-Based Improved Convolutional Autoencoder
+Smoothing Complete Feature Pyramid Networks for Roll Mark Detection of Steel Strips
+Robust {CFAR} Ship Detector Based on Bilateral-Trimmed-Statistics of Complex Ocean Scenes in {SAR} Imagery: {A} Closed-Form Solution
+Self-Learning Hot Data Prediction: Where Echo State Network Meets {NAND} Flash Memories
+Outliers-Robust {CFAR} Detector of Gaussian Clutter Based on the Truncated-Maximum-Likelihood- Estimator in {SAR} Imagery
+Surface Defect Classification for Hot-Rolled Steel Strips by Selectively Dominant Local Binary Patterns
+A Refined Bilateral Filtering Algorithm Based on Adaptively-Trimmed-Statistics for Speckle Reduction in {SAR} Imagery
+Multi-Scale Rotation-Invariant Haar-Like Feature Integrated CNN-Based Ship Detection Algorithm of Multiple-Target Environment in {SAR} Imagery
+A Novel {MIMO-SAR} Solution Based on Azimuth Phase Coding Waveforms and Digital Beamforming
+A Correlation-Based Joint {CFAR} Detector Using Adaptively-Truncated Statistics in {SAR} Imagery
+A Novel Ship Wake {CFAR} Detection Algorithm Based on {SCR} Enhancement and Normalized Hough Transform
+Determination of Ocean Wave Propagation Direction Based on Azimuth Scanning Mode
+A New {CFAR} Ship Detection Algorithm Based on 2-D Joint Log-Normal Distribution in {SAR} Images

@@ -1,0 +1,16 @@
+Performance Evaluation of Hybrid Distributed-Centralized {TDMA} in High-Density Vehicular Networks
+On Minimum Parking Space Required by Automatic Parallel Parking
+A Two-Layer {IP} Hopping-Based Moving Target Defense Approach to Enhancing the Security of Mobile Ad-Hoc Networks
+Intersection Vehicle Turning Control for Fully Autonomous Driving Scenarios
+Achievable Sum-Rate of Full-Duplex-Based Small Cells With Clustered Interference Alignment
+A {MANET} System Supporting {TDMA} and {CSMA} on One Commercial Network Card
+Rate-Aware User Matching and Power Control for Full-Duplex-Based Small Cells
+Detection of Sleep Biosignals Using an Intelligent Mattress Based on Piezoelectric Ceramic Sensors
+{BEM} Channel Estimation for {OFDM} System in Fast Time-Varying Channel
+Practical framework for ultra-fair dynamic interference coordination in mobile communication systems
+{P-TDMA-SYS:} {A} {TDMA} System over Commodity 802.11 Hardware for Mobile Ad-Hoc Networks
+Design and Implementation of System Under Test for {LTE} Protocol Conformance Testing
+A Simplified and Efficient {LTE} {RRC} Conformance Testing Adapter
+{TTCN-3} Codec Implementation for {LTE} {RRM} Conformance Test
+Cell Selection Game for Densely-Deployed Sensor and Mobile Devices In 5G Networks Integrating Heterogeneous Cells and the Internet of Things
+{LTE} Radio Resource Management Conformance Testing: Exploration and Implementation

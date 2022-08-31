@@ -1,0 +1,16 @@
+MFDNet: Collaborative Poses Perception and Matrix Fisher Distribution for Head Pose Estimation
+{CARM:} Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms
+Interactions between all pairs of neighboring trees in 16 forests worldwide reveal details of unique ecological processes in each forest, and provide windows into their evolutionary histories
+Kernel learning for blind image recovery from motion blur
+Semantic Features Prediction for Pulmonary Nodule Diagnosis Based on Online Streaming Feature Selection
+Scale and Gradient Aware Image Smoothing
+The visual human face super-resolution reconstruction algorithm based on improved deep residual network
+Ship Classification Based on Superstructure Scattering Features in {SAR} Images
+Development of a Highly Flexible Mobile GIS-Based System for Collecting Arable Land Quality Data
+Effective Improvement for Depth Estimated Based on Defocus Images
+Effective Single Underwater Image Enhancement by Fusion
+Intervention Learning of Local Causal Structure Based on Sensitivity Analysis
+Adaptive removal of real noise from a single image
+Digital Multi-Focusing From a Single Photograph Taken With an Uncalibrated Conventional Camera
+Accurate Method for Calculating the Effective Capacitance with {RC} Loads Based on the Thevenin Model
+Behavioral Circuit Macromodeling and Analog {LSI} Implementation for Automobile Engine Intake System

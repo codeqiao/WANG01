@@ -1,0 +1,49 @@
+Combining context-relevant features with multi-stage attention network for short text classification
+General assembly framework for online streaming feature selection via Rough Set models
+Error-aware Markov blanket learning for causal feature selection
+Hierarchical GAN-Tree and Bi-Directional Capsules for multi-label image classification
+Learning common and label-specific features for multi-Label classification with correlation information
+Representation learning with deep sparse auto-encoder for multi-task learning
+Online early terminated streaming feature selection based on Rough Set theory
+Shared-view and specific-view information extraction for recommendation
+Multi-label text classification via joint learning from label embedding and label correlation
+Collaborative filtering with a deep adversarial and attention network for cross-domain recommendation
+Semi-supervised classification on data streams with recurring concept drift and concept evolution
+Cognitive structure learning model for hierarchical multi-label text classification
+A coarse-to-fine collective entity linking method for heterogeneous information networks
+Recurring Drift Detection and Model Selection-Based Ensemble Classification for Data Streams with Unlabeled Data
+Feature Interaction for Streaming Feature Selection
+A Survey on Multi-Label Data Stream Classification
+Corrections to "An Effective Confidence-Based Early Classification of Time Series"
+Representation learning via serial robust autoencoder for domain adaptation
+Semi-supervised representation learning via dual autoencoders for domain adaptation
+Multi-fuzzy-objective graph pattern matching in big graph environments with reliability, trust and social relationship
+An Effective Confidence-Based Early Classification of Time Series
+Marginalized Stacked Denoising Autoencoder With Adaptive Noise Probability for Cross Domain Classification
+Representation learning via serial autoencoders for domain adaptation
+Transfer learning with deep manifold regularized auto-encoders
+Online streaming feature selection using adapted Neighborhood Rough Set
+OFS-Density: {A} novel online streaming feature selection method
+Semi-supervised representation learning via dual autoencoders for domain adaptation
+A survey on online feature selection with streaming features
+Transfer learning with stacked reconstruction independent component analysis
+Online Biterm Topic Model based short text stream classification using short text expansion and concept drifting detection
+Learning From Short Text Streams With Topic Drifts
+Employing Semantic Context for Sparse Information Extraction Assessment
+Three-layer concept drifting detection in text data streams
+Online feature selection for high-dimensional class-imbalanced data
+Domain adaptation via Multi-Layer Transfer Learning
+Multi-bridge transfer learning
+Online Feature Selection with Group Structure Analysis
+An Incremental Decision Tree for Mining Multilabel Data
+Learning concept-drifting data streams with random ensemble decision trees
+Quadruple Transfer Learning: Exploiting both shared and non-shared concepts for text classification
+Cross-domain sentiment classification-feature divergence, polarity divergence or both?
+A Large Probabilistic Semantic Network Based Approach to Compute Term Similarity
+Online Feature Selection with Group Structure Analysis
+Robust Face Recognition via Adaptive Sparse Representation
+Robust Face Recognition via Adaptive Sparse Representation
+Learning from concept drifting data streams with unlabeled data
+Mining Recurring Concept Drifts with Limited Labeled Streaming Data
+A Random Decision Tree Ensemble for Mining Concept Drifts from Noisy Data Streams
+A Semi-Random Multiple Decision-Tree Algorithm for Mining Data Streams

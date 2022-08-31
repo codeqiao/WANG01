@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            border: solid 2px green;
+            margin: 0 auto;
+        }
+        #div1{
+            background-color: red;
+            margin-bottom: 50px;
+        }
+        #div2{
+            /* 此时两个之间的边框任然是50px */
+            margin-top: 20px; 
+            background-color: blue;
+        }
+        #div3{
+            background-color: aqua;
+            width: 200px;
+            height: 200px;
+            padding-top: 10px;
+            /* 将两个边框合并 */
+            margin-top: -2px;
+        }
+        #div4{
+            background-color: antiquewhite;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1"></div>
+    <div id="div2"></div>
+
+
+    <div id="div3">
+        <div id="div4">
+
+        </div>
+    </div>
+
+    
+</body>
+</html>

@@ -1,0 +1,28 @@
+A Semantic Guidance and Transformer-Based Matching Method for UAVs and Satellite Images for {UAV} Geo-Localization
+A Transformer-Based Feature Segmentation and Region Alignment Method for UAV-View Geo-Localization
+Vision-Based {UAV} Localization System in Denial Environments
+A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization
+A Novel Ultrasonic Doppler Fetal Heart Rate Detection System Using Windowed Digital Demodulation
+Diagnosis of Significant Liver Fibrosis by Using a {DCNN} Model With Fusion of Features From {US} B-Mode Image and Nakagami Parametric Map: An Animal Study
+Image Segmentation Using Level Set Driven by Generalized Divergence
+Global-to-local region-based indicator embedded in edge-based level set model for segmentation
+Weakly supervised salient object detection via double object proposals guidance
+Napa: Powering Scalable Data Warehousing with Robust Query Performance at Google
+A Faster and More Effective Cross-View Matching Method of {UAV} and Satellite Images for {UAV} Geolocalization
+Research on Factors Affecting the Imaging Resolution of Magneto-Acousto-Electrical Tomography
+Nonparametric Distribution Prior Model for Image Segmentation
+A B-Scan Imaging Method of Conductivity Variation Detection for Magneto-Acousto- Electrical Tomography
+Prior distribution-based statistical active contour model
+Restricted Orientation Dubins Path With Application to Sailboats
+China Digital Radio {(CDR)} System and Its Application in Emergency Broadcasting
+A Novel Method to Detect Interface of Conductivity Changes in Magneto-Acousto-Electrical Tomography Using Chirp Signal Excitation Method
+A 2D Magneto-Acousto-Electrical Tomography Method to Detect Conductivity Variation Using Multifocus Image Method
+Composite Hierarchical Anti-Disturbance Control with Multisensor Fusion for Compact Optoelectronic Platforms
+Gradient vector flow combined saliency analysis for active contours
+Antiblurry Dejitter Image Stabilization Method of Fuzzy Video for Driving Recorders
+Video error concealment scheme based on tensor model
+Compensating Unknown Time-Varying Delay in Opto-Electronic Platform Tracking Servo System
+Biologically inspired image enhancement based on Retinex
+Efficient Halfband {FIR} Filter Structures for {RF} and {IF} Data Converters
+Quaternion moment and its invariants for color object classification
+Improving the Rapidity of Nonlinear Tracking Differentiator via Feedforward

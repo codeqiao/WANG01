@@ -1,0 +1,50 @@
+WiGRUNT: WiFi-Enabled Gesture Recognition Using Dual-Attention Network
+Secure User Authentication Leveraging Keystroke Dynamics via Wi-Fi Sensing
+Quantitative Measurement of Perceptual Attributes and Artifacts for Tone-Mapped {HDR} Display
+Emotion recognition based on fusion of long short-term memory networks and SVMs
+{RFID} Reader Anticollision Based on Distributed Parallel Particle Swarm Optimization
+Computer-Aided Diagnosis of Alzheimer's Disease through Weak Supervision Deep Learning Framework with Attention Mechanism
+A memetic algorithm based on two{\_}Arch2 for multi-depot heterogeneous-vehicle capacitated arc routing problem
+WiONE: One-Shot Learning for Environment-Robust Device-Free User Authentication via Commodity Wi-Fi in Man-Machine System
+3-D Facial Expression Recognition via Attention-Based Multichannel Data Fusion Network
+Resource Allocation in 5G IoV Architecture Based on {SDN} and Fog-Cloud Computing
+A Model Transfer Learning Framework With Back-Propagation Neural Network for Wine and Chinese Liquor Detection by Electronic Nose
+{LAUN} Improved StarGAN for Facial Emotion Recognition
+BeAware: Convolutional neural network(CNN) based user behavior understanding through WiFi channel state information
+A multi-task learning framework for gas detection and concentration estimation
+SleepGuardian: An RF-Based Healthcare System Guarding Your Sleep from Afar
+Towards Robust and Accurate Detection of Abnormalities in Musculoskeletal Radiographs with a Multi-Network Model
+Milk Source Identification and Milk Quality Estimation Using an Electronic Nose and Machine Learning Techniques
+A Machine Learning Method for the Detection of Brown Core in the Chinese Pear Variety Huangguan Using a MOS-Based E-Nose
+Applying graph-based differential grouping for multiobjective large-scale optimization
+Sleepy: Wireless Channel Data Driven Sleep Monitoring via Commodity WiFi Devices
+EmoSense: Computational Intelligence Driven Emotion Sensing via Wireless Channel Data
+Multiobjective Evolution of Fuzzy Rough Neural Network via Distributed Parallelism for Stock Prediction
+Hybrid Microgrid Many-Objective Sizing Optimization With Fuzzy Decision
+Multiobjective 3-D Topology Optimization of Next-Generation Wireless Data Center Network
+Security-Aware Industrial Wireless Sensor Network Deployment Optimization
+A Multitask Learning Framework for Multi-Property Detection of Wine
+Classification and Evaluation of Quality Grades of Organic Green Teas Using an Electronic Nose Based on Machine Learning Algorithms
+BeSense: Leveraging WiFi Channel Data and Computational Intelligence for Behavior Analysis
+Bionic Electronic Nose Based on {MOS} Sensors Array and Machine Learning Algorithms Used for Wine Properties Detection
+BeSense: Leveraging WiFi Channel Data and Computational Intelligence for Behavior
+WiFi-based Real-time Breathing and Heart Rate Monitoring during Sleep
+SleepGuardian: An RF-based Healthcare System Guarding Your Sleep from Afar
+EmoSense: Computational Intelligence Driven Emotion Sensing via Wireless Channel Data
+Online Internet traffic monitoring system using spark streaming
+MoSense: An RF-Based Motion Detection System via Off-the-Shelf WiFi Devices
+Classification of Multiple Chinese Liquors by Means of a QCM-based E-Nose and {MDS-SVM} Classifier
+The Evolution of Sink Mobility Management in Wireless Sensor Networks: {A} Survey
+{AAH:} accurate activity recognition of human beings using WiFi signals
+{PAWS:} Passive Human Activity Recognition Based on WiFi Ambient Signals
+A 3D {CFD} Simulation and Analysis of Flow-Induced Forces on Polymer Piezoelectric Sensors in a Chinese Liquors Identification E-Nose
+Energy-Efficient Indoor Localization of Smart Hand-Held Devices Using Bluetooth
+{EMS:} Efficient mobile sink scheduling in wireless sensor networks
+{ESWC:} Efficient Scheduling for the Mobile Sink in Wireless Sensor Networks with Delay Constraint
+An optimal algorithm for solving partial target coverage problem in wireless sensor networks
+Towards an optimal lifetime in heterogeneous surveillance wireless sensor networks
+Optimization Algorithm for {SVC} Multicast with Light-Weight Feedback
+Mobility-Assisted Node Localization Based on {TOA} Measurements Without Time Synchronization in Wireless Sensor Networks
+Covering Targets in Sensor Networks: From Time Domain to Space Domain
+Theoretical Treatment of Target Coverage in Wireless Sensor Networks
+QoS-aware target coverage in wireless sensor networks

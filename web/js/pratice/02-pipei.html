@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #p1>span{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="search">
+        <input type="text" id="key">
+        <button id="find">查找</button>
+        <p id="p1">
+            韩国国防部透露称，此次联演期间，政府和军队将在韩美联防机制下熟练掌握泛政府层面的危机管控和联合作战支援流程。还将把其间规模缩水的韩美联合演习和训练恢复正常，进一步加强韩美坚固的同盟关系和联防态势。
+
+　　据报道，此次联演中将反映出无人机攻击、网络战等战争形态新变化，采用战时可能发生的实战化剧本。基于敌军攻击港口、机场、半导体工厂等主要产业设施和国家重点设施的假设，实施由民、官、军、警等共同参与的防护和恢复重建演练。
+
+　　此外，此次联演将同时进行采用电脑模拟方式的指挥所演习（CPX）和按各梯队和功能检测实战水平的联合野外机动训练（FTX）。具体将进行科学化战斗联演（旅级）、消除大规模杀伤性武器联演（营级）、特殊战交换联演（小规模）等共13项演练。由此，韩美2018年起中断至今的团级以上规模联演将得以重启。
+
+　　报道指出，韩美还将在演习期间依照“有条件的移交战时作战指挥权计划”对未来联合司令部的完全运用能力（FOC）进行评估，以满足指挥权移交的先决条件。
+        </p>
+
+        <div id="show"></div>
+    </div>
+
+    <script>
+        var inKey = document.getElementById('key');
+        var p1 = document.getElementById('p1');
+        var btnFind = document.getElementById('find');
+        btnFind.onclick=function(){
+            var keyWord = inKey.value;
+            var reg = new RegExp(keyWord,"ig")
+            var text = p1.innerHTML.replace(reg,"<span>"+keyWord+"</span>");
+            p1.innerHTML=text
+        }
+    </script>
+</body>
+</html>

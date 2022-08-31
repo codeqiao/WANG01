@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #nav{
+            width: 200px;
+            border: solid 1px #ccc;
+            margin: 0px auto;
+        }
+
+        #nav>.title{
+            border-bottom: solid 1px #ccc;
+            padding: 5px 8px;
+            background-color: #eee;
+            cursor: pointer;    
+        }
+
+        #nav>.content{
+            padding: 8px;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="nav">
+        <div class="title" onclick="cc()">程序员的法则</div>
+        <div id="con" class="con">
+            每天都可以做程序员，我好开心。
+            每天都可以做程序员，我好开心。
+            每天都可以做程序员，我好开心。
+            每天都可以做程序员，我好开心。
+            每天都可以做程序员，我好开心。
+            每天都可以做程序员，我好开心。
+        </div>
+    </div>
+
+    <script>
+        function cc(){
+            //获取到标题和内容元素对象
+            var title = document.getElementsByClassName('title')[0];
+            var con = document.getElementsByClassName('con')[0];
+            console.log(con.style);
+            //编写代码块的内容
+            if(con.style.display==""){
+                con.style.display='none';
+            }else{
+                con.style.display=''
+            }
+            var status = con.style.display
+            console.log(status)
+        }
+    </script>
+</body>
+</html>

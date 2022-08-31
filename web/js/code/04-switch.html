@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #tip{
+            border: solid 1px #eee;
+            width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div id="sw">
+        <!-- 拖动条 -->
+        <input type="range"
+                id="num"
+                min="1" 
+                max="10"
+                onchange="aa()"
+                value="3">
+        <div id="tip">
+
+        </div>
+    </div>
+    <script>
+        // 先获取拖动元素的对象，并保存在变量a中
+        var a = document.getElementById('num')
+        // 绑定值的改变事件
+        a.onchange=function(){
+            var b = document.getElementById('tip')
+            b.innerText=a.value
+            switch(a.value){
+                case '1':
+                    console.log('asdasd')
+                    break;
+                case '2':
+                    break;
+                case '3':
+                    break;
+                case '4':
+                    break;
+                case '5':
+                    break;
+                case '6':
+                    break;
+                case '7':
+                    break;
+                case '8':
+                    break;
+                case '9':
+                    break;                    
+                case '10':
+                    break;
+            }
+        }
+    </script>    
+</body>
+</html>
